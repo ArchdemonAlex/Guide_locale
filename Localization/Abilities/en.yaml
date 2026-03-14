@@ -1,0 +1,366 @@
+abilities_page.one.glossary: '🤫 - Secret abilities
+
+  👨‍👧‍👦 - Group abilities (do not drop in battles and mass-battles (1vs1; 1vs1vs1)
+
+  🤖 - remote abilities, which can now be found only in npcs or in classic mode.'
+inquisitor.glossary: 'Inquisitor Ability Description:
+
+  Once every 3 turns, you may direct the wrath of the heavens at an opponent or ally/yourself.
+
+  If the opponent takes a damaging action this turn, they will be stunned after 2
+  turns.
+
+  If applied to an ally/yourself, that ally/yourself cannot die this turn.
+
+  Once per game, you have a 30% chance of not dying when your hp drops to 0, even
+  if you didn''t use the ability.'
+sadist.glossary: 'Sadist Ability Description:
+
+  When you take away an opponent''s XP, you recover 1 energy.
+
+
+  Note: Energy will not be restored if you bleed them.'
+berserk.glossary: 'Berserk Ability Description:
+
+  When you have exactly 1 xp remaining, you take +2 damage.
+
+  Your initial energy is reduced in proportion to your maximum xp, but you gain +1
+  maximum and current energy for each life lost.'
+ninja.glossary: 'Ninja Ability Description:
+
+  Your roll cannot be hit by an attack.'
+gunsmith.glossary: 'Gunsmith ability description:
+
+  When you choose an ability, grants you the ability to choose a second weapon from
+  a random list of 4 weapons. There are no trophy weapons in the list!
+
+  During the game, you can switch to the second weapon each turn, but you can only
+  change weapons once per turn.
+
+
+
+  Note:
+
+  If your first weapon was a melee weapon and your second weapon was a ranged weapon,
+  you will be able to choose Concentration, Dash and Berserk, which are not available
+  for ranged weapons, but also these abilities retain their effect.
+
+  Also, in a similar situation you can choose biceps, but biceps has no effect on
+  ranged weapons.
+
+
+  If your first weapon is a long-range weapon and your second weapon is a melee weapon,
+  you will be able to select a sight that retains its accuracy effect for the melee
+  weapon.'
+medic.glossary: 'Medic Ability Description:
+
+  At the start of combat, you gain a stimulant that restores 2 xp when used.'
+alchemist.glossary: 'Alchemist Ability Description:
+
+  At the start of the game and every 9 turns, you gain a rabies serum that causes
+  the chosen target to attack in addition to its effect.
+
+
+  Note: Rabies Serum can accumulate if not used.
+
+  They do not accumulate in dungeons'
+addict.glossary: 'Addict Ability Description:
+
+  You lose 1 accuracy. When you use Jet, Chitin, Adrenaline, or Rabies Serum on yourself,
+  you gain +2 to accuracy and +1 to damage for one turn. You gain one of these items
+  (except Rabies Serum) at the start of combat.'
+shield_generator.glossary: 'Shield Generator ability description:
+
+  Every 5 turns, you gain a shield. It does not recharge unless a shield from the
+  previous generation has been spent.'
+engineer.glossary: 'Engineer Ability Description:
+
+  Once every 5 turns, you may create a neutral item by choosing one of three.
+
+
+  Note: Neutral items are items that do not grant abilities (i.e. not a stimulant,
+  pyrotechnics bomb, or rabies serum).'
+pyrotechnician.glossary: 'Pyrotechnic ability description:
+
+  At the start of the game, you gain a bomb that deals 1 damage. You can spend a turn
+  to improve it by +2 damage, the number of improvements is unlimited.'
+thrifty.glossary: 'Thrifty Ability Description:
+
+  At the start of combat, you gain 2 random additional neutral items.
+
+
+  Note: Neutral items are items that are not given by abilities (i.e. not stimulant,
+  bomb pyrotechnics, or rabies serum)'
+strong_skull.glossary: 'Strong Skull Ability Description:
+
+  You gain a 50% chance to block 1 damage each turn. The damage limit for loss of
+  life is increased by 3.'
+zombie.glossary: 'Zombie Ability Description:
+
+  You live 2 extra turns before you die.'
+dooble_core.glossary: 'Double-core  Description:
+
+  Increases maximum lives by 1 and bleed resistance by 2.'
+gas_mask.glossary: 'Gas mask Ability Description:
+
+  Burning lasts on you for one turn instead of two. You gain immunity to light grenades
+  and +1 maximum energy.'
+final_blow.glossary: "Last Strike ability description:\nYou can strike one last blow,\
+  \ taking away 1hp each from two random opponents.\nInstantly kills a zombie. \n\
+  On your next turn after this ability, you will die after this attack.\n\nNote:\n\
+  If there is one target against you instead of two, you still only take away one\
+  \ life.\nIf there are more than two targets against you, you will take away a random\
+  \ two.\nYou cannot block with a shield or light grenade.\nIf an inquisitor is triggered\
+  \ during death after the last hit, you still die."
+pyromaniac.glossary: 'Pyromancer Ability Description:
+
+  For each target with combustion, you deal +1 to damage.
+
+
+  Note:
+
+  You take bonus damage even on the turn the target extinguishes itself.
+
+  It does not affect the degree of burning, only the number of targets.
+
+  You also deal additional damage if you burn yourself.'
+aim.glossary: 'Aim Ability Description:
+
+  Increases accuracy for ranged weapons by 2.'
+visor.glossary: 'Visor Ability Description:
+
+  You can see information about a selected opponent. Gives +1 to accuracy on ranged
+  weapons.'
+thief.glossary: 'Thief Ability Description:
+
+  Once every 3 turns, you may steal an item from the target that you intended to use.
+  If you use a ranged weapon, you passively gain +1 to accuracy.'
+concentration.glossary: 'Concentration Ability Description:
+
+  You can attempt a critical hit with a certain 75% / 50% / 25% chance for 2/3/4 respectively,
+  but you lose accuracy for doing so.
+
+  In addition to the chance, 1/2/3/4 denotes the damage multiplier.'
+biceps.glossary: 'Biceps Ability Description:
+
+  If you have a melee weapon, you gain a 30% chance to deal double damage on an attack.'
+weapons_master.glossary: 'Weapon Master Ability Description:
+
+  The chance of special effects on weapons when attacking (e.g. bat - stun or knife
+  - bleed) is increased by 12% (30->42, 75->87, etc.).
+
+
+  Works for all weapons, as well as abilities (biceps and concentration for example)
+
+  The ability works only once per turn and is valid only for the first action. I.e.
+  for alchemist or hell tentacles - the ability will not work!'
+hypnotist.glossary: 'Hypnotist Ability Description:
+
+  If the target of Hypnotism was doing something that requires target selection, their
+  target will change to a random player of the opposing team, including themselves.
+
+  Hypnotise costs 3 energy and has a cooldown of 6 turns (If used on the first turn,
+  the next turn is the 7th turn.).'
+regeneration.glossary: 'Description of the Regeneration ability:
+
+  A secret ability that appears if you take Double-core and Strong Skull.
+
+  With a 1/6 chance (16.67%) it restores life when life is lost.'
+bloodthirstiness.glossary: 'Description of the ability Bloodthirsty:
+
+  A secret ability that appears if you take Sadist and Berserk.
+
+  The chance of hitting opponents with less than half XP is increased.
+
+
+  Note:
+
+  Less than half is 1/4hp and 2/5hp (if the player has double life).'
+witchfinder.glossary: 'This is a group ability!
+
+  Witchblade ability description:
+
+  A secret ability that appears if you take Necromancer and Ritualist.
+
+  After someone dies, you can blow up their corpse and deal 2 damage to all opponents.
+
+
+  Note:
+
+  You cannot blow up the same corpse twice.
+
+  If you first, resurrected an ally with a necromancer, you cannot blow up the corpse.
+
+  The corpse of a necromancer zombie cannot be blown up.'
+necromancer.glossary: 'This is a group ability!
+
+  Necromancer ability description:
+
+  You can raise a deceased ally in the form of a zombie.
+
+
+  Note:
+
+  Zombie from Necromancer loses its weapon, and attacks regardless of the amount of
+  energy (you can hit with 0 energy), so there is no need to reload!
+
+  If the player was knocked out of his weapon with a chain before dying, as a necromancer
+  zombie, he can pick it up and use it.
+
+  A necromancer zombie dies after two turns if it fails to hit its target or fails
+  to deal damage in any of the two turns.
+
+  If damage was dealt by the zombie, the counter is reset to zero and again two turns
+  later.
+
+  As long as the Necromancer is alive - players can be raised countless times, but
+  you cannot raise a player who has died for the following reasons: Suicide, One Punch.'
+ritualist.glossary: 'This is a group ability!
+
+  Ritualist ability description:
+
+  If a target (including an allied target) you applied a ritual to dies over the next
+  3 turns, you gain a completed ritual that can be used to take 2 xp from any target.
+
+
+  Note:
+
+  Over the next 3 turns, acts as follows:
+
+  If you applied, conditionally, on the first turn, the ritual will be on the target
+  - 1st, 2nd and 3rd turn, if you kill the target on the 4th you will not get the
+  ritual.
+
+  If you fulfil the condition of the ritual you can apply it at any time, no matter
+  how many turns pass.
+
+
+  Ritualist works with zombies, but the ritual should be cast not at the moment of
+  becoming a zombie (i.e. at 1hp), but when the player is already a zombie (at 0hp).'
+gunner.glossary: 'This is a group ability!
+
+  Gunner Ability Description:
+
+  When used on an allied target/self, fully restores energy to the ally/self.'
+unique_abilities.glossary: '🕳 - Dungeon Abilities (Which the player gets when going
+  through a dungeon)
+
+  🏆 - Unique Abilities (Which the player gets for winning a special tournament or
+  other circumstances)'
+dash.glossary: 'Ability Description: You can dash towards a target with an attack
+  that deals 1 more damage, even if the target is far away:
+
+  You can dash towards a target, making an attack with 1 increased damage, even if
+  the target is far away.'
+dark_energy.glossary: 'Description of the ability Darkness Energy:
+
+  When used, casts 3 fear on the target (you cannot cast more than 4 fear on the target
+  per turn). If you manage to inflict 5 fear on the target, the target dies with no
+  chance to be rescued by an inquisitor/zombie.
+
+  Also for each target (including corpses/allies) with darkness imposed, the player
+  gets +1 to damage, -1 to ability stats (does not affect the darkness itself) and
+  weapon abilities, the next application of darkness causes 2-3 damage (for each target).'
+tentacles_of_hell.glossary: 'Hell Tentacles ability description:
+
+  On attack (or rather, on an action where an enemy target is selected) - the target
+  is attacked by tentacles, dealing 1 damage and setting it on fire with a power of
+  1
+
+  The chance of the tentacles attacking is 50% (and another 90% chance of hitting
+  (40% for roll)).'
+dragon_power.glossary: "Description of the Dragon Power ability:\nDragon Power adds\
+  \ two buttons to the player: 1. the attack menu will have a \"Fireball\" button;\
+  \ 2. the menu will additionally have a \"Wingspan\" button.\n 1. Fireball - allows\
+  \ you to attack any opponent if he did not approach the player. It has no cd, but\
+  \ consumes 3 energy, if the energy will not be enough, the button will not be! Also,\
+  \ the opponent who approached - can not be selected as a target of attack!\nWhen\
+  \ used, it deals 1-5 damage and sets the target on fire with a power of 1-4 and\
+  \ a burning duration of 1-3 turns (1-1 turn if the target has a gas mask)\nChance\
+  \ to hit and damage from the ball are calculated as from a normal attack (Depends\
+  \ on energy, abilities (scope, visor, thief - give +accuracy, junkie and concentration\
+  \ give -accuracy), opponent's roll). Chance to hit is calculated as 5 cc and 1 accuracy.\n\
+  But the duration of ignition and burning power are random.\n\n⚠️ And here are the\
+  \ abilities that affect the damage - do not affect the fireball. I.e. berserk, concentration,\
+  \ biceps and so on - will not increase the damage!\n\n2. Wingspan - allows you to\
+  \ push all opponents (except the Knight) into ranged combat. Spends 2 energy and\
+  \ has a cd of 5 turns. If the opponent presses approach during the same turn, he\
+  \ will not be pushed away and will remain in melee!"
+doom.glossary: 'DOOM Ability Description:
+
+  Алекса and Зилча unique ability (obtained for winning a tournament).
+
+  Inflicts on the target, DOOM for two turns: target takes 1 damage each turn during
+  the duration of the ability; blocked ‘extra’; and hidden player panel.'
+the_magic_of_explosion.glossary: 'The Magic of explosions Ability Description :
+
+  Unique ability (gained for winning a tournament) - Арсения.
+
+  Spends 5 energy and has a cooldown of 10 turns.
+
+  When used, the player spends a turn preparing and on the next turn attacks the target,
+  dealing 10 damage and setting it on fire with a power of 6.
+
+  It is impossible to interrupt or stop the application! I.e. stuns, light grenades
+  will not help if the preparation has already started!
+
+  Once applied, the player is stunned.
+
+
+  Example of application:
+
+  Move 1:
+
+  💮|Megumin pulls out a staff and points it at Rat.
+
+  💬Megumin: O darkness where no light penetrates, O black flame that illuminates no
+  darkness, hear my call. Burn everything and everyone where your chastising hand
+  reaches.
+
+
+  Move 2:
+
+  💬 Megumin: EXPLOSION!
+
+  💮||A huge wave of flame strikes Rat, dealing 10 damage and setting the target on
+  fire. Megumin falls to the ground with no strength.
+
+  🔥|Rat is on fire! Loses 5 energy and takes 6 damage.
+
+
+  Effects of move 3:
+
+  🌀|Megumin regains consciousness.'
+bloodseeker.glossary: 'Bloodseeker Ability Description:
+
+  Зилча unique ability.
+
+  When used, it removes 1 xp from the target and restores 1 xp to itself.
+
+  If it misses, it removes 1 xp from the target.
+
+  Chance to hit is calculated as from a normal attack (Depends on energy, abilities
+  (aim, visor, thief - give +accuracy, junkie and concentration give -accuracy), opponent''s
+  roll). Chance to hit is calculated as 3 cubes and 2 accuracy.
+
+  Applying the ability costs 3 energy
+
+  Has a cd of 11 turns.'
+sapper.glossary: 'Miner Ability Description:
+
+  Unique ability (obtained for winning a tournament) - Семва и Тогжан.
+
+  Allows you to set up a mine that will explode after a chosen number of turns and
+  hit two random opponents, dealing 2-4 damage'
+echo.glossary: 'Echo Ability Description:
+
+  On your next turn, attack with an attack bonus of 50% of the previous damage dealt,
+  rounded up.'
+the_magic_of_explosion.deluxe.glossary: description to come later
+heroism.glossary: description to come later
+mimic.glossary: description to come later
+sweet_tooth.glossary: description to come later
+tactician.glossary: description to come later
+toad.glossary: 'Toad Ability Description:
+
+  Activated during a roll, allows you to move from melee to ranged combat.'

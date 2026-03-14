@@ -1,0 +1,119 @@
+old_design.items.glossary: 'Neutral Items:
+
+  {grenade}
+
+
+  {shield}
+
+
+  {light_grenade}
+
+
+  {adrenaline}
+
+
+  {jet}
+
+
+  {chitin}
+
+
+  {molotov_cocktail}
+
+
+  {throwing_knife}
+
+
+  ⚠️ Roll does not save from grenade, light grenade, molotov cocktail, homemade bomb.
+
+
+  Ability Items:
+
+  {stimulator}
+
+
+  {rage_serum}
+
+
+  {homemade_bomb}'
+items.glossary: '⚪️ - neutral items (drop starter items, can be created by engineer
+  and given to hoarders)
+
+  💉 - drug items (get addict bonus)
+
+  🧬- ability items
+
+  👾- Deluxe items'
+grenade.glossary: '💣 Grenade - used during combat, spends 2 energy and does 2-3 damage
+
+
+  ⚠️ Roll does not save from grenade'
+molotov_cocktail.glossary: '🍸 Molotov Cocktail - wastes a turn, wastes 2 energy, sets
+  up to two opponents on fire.
+
+
+  ⚠️ Roll does not save from molotov cocktail'
+light_grenade.glossary: '😵 Light Grenade - wastes a turn, reduces opponent''s 8 energy
+  in the same turn. Reduces opponent 1 energy in the same turn if he has a gas mask.
+
+
+  ⚠️ Rolling does not save from Light Grenade'
+adrenaline.glossary: '💉 Adrenaline - does not waste a turn, must be used before an
+  action that spends a turn. Gives +3 energy in the same turn.
+
+  Adrenaline+recharge - do not use.'
+jet.glossary: 💉 Jet - does not waste a turn, must be used before the action that spends
+  a turn. Replenishes full energy after 2 turns.
+chitin.glossary: 💉 Chitin - does not waste a turn, must be used before an action that
+  spends a turn. gives +2 armour for 3 turns, at the end of the third you will be
+  stunned!
+throwing_knife.glossary: 🔪 Throwing knife - wastes a turn, wastes 1 energy, does no
+  damage, causes bleeding
+shield.glossary: '🔵 Shield - spends a turn, blocks all damage!
+
+  But, it does not block abilities and effects that take away hearts and does not
+  prevent debuffs (effects (e.g. burning/bleeding/stun, etc.))!'
+stimulator.glossary: 'Medic''s Item:
+
+  💉 Stimulator - spends a turn, restores 2 xp to selected target; you can choose yourself/allies.'
+rage_serum.glossary: 'Alchemist''s Item:
+
+  💉 Serum of Rabies - application does not waste a turn, makes the chosen target attack
+  in addition to its effect. You can choose yourself/allies/opponents.
+
+  You can hit yourself if you''re with a melee weapon and neither you nor the target
+  are approached'
+homemade_bomb.glossary: 'Pyrotechnics item:
+
+  ☢️ Homemade bomb - it can be thrown at an enemy immediately - (deals damage only
+  to selected (one target); spends 2 energy, deals 1 damage + 2 damage for each enhancement
+
+  Or it can be improved - spends a turn, your bomb takes +2 damage; the number of
+  improvements is infinite.
+
+
+  ⚠️ Rolling does not save a homemade bomb'
+cryo_grenade.glossary: '💣 Cryo-grenade - used during combat, spends 2 energy. Does
+  no damage when used, stuns up to two targets for 1 turn.
+
+
+  ⚠️ Rolling does not save from cryo-grenade!'
+death_grenade.glossary: description to come later
+mucus_in_the_bottle.glossary: "\U0001F37ESlime in a Bottle - Costs 2 energy - used\
+  \ on 1 target, casts the \U0001FA72||Eating Slime effect. \n\n⚠️ Rolling does not\
+  \ save from Bottle Slime!"
+energy_grenade.glossary: "\U0001F4A3 Energy Grenade - used on one opponent, spends\
+  \ 2 energy. Deals damage equal to its energy. \n\n⚠️ Rolling does not save from\
+  \ energy grenade!"
+candies.glossary: 'Sweet tooth items:
+
+  🍬Candy can only be used on yourself.
+
+
+  🍬Sweet Candy - imposes regeneration
+
+
+  🍬Caffeine Candy - gives +1 energy ⚡️ for 3 turns.
+
+
+  🍬Sour Candy - gives 1 max energy ⚡️ for 5 turns.'

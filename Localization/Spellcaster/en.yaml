@@ -1,0 +1,199 @@
+spellcaster.glossary: 'Spellcaster is a pretty diverse skill. You have an extensive
+  set of abilities in your arsenal, the use of which will help you in almost all game
+  situations.
+
+
+  There are 21 abilities and 13 elements in total (but you will only get 9 of them
+  per turn). Each spell consists of three elements, and among them can be repeated.
+  That is, a spell does not have to contain 3 different elements, it can consist of
+  two elements of one type and a third element of another type. For example: 🩸🩸🌫 or
+  🩸🩸🩸🩸. Now, the order of the elements is no longer important.
+
+  🌫🩸🌫🩸 and 🩸🌫🩸 are the same for the world of magic. Also, after each successful spell,
+  the caster requires rest depending on the strength of the ability used.
+
+  P.S. There may be some minor inaccuracies in the spells'' cpd
+
+
+  ❤️❄️❄️ Frostheart
+
+  💧🌫❄️ Frozen Air
+
+  🔥❄️⚙️ Gravity Anomaly
+
+  💧❤️💧 Water Shield
+
+  🩸🩸🩸🩸 Mass Bleeding
+
+  🌫🩸 Single Bleed.
+
+  🔥🩸☀️ Sword of Light
+
+  🌳☀️ Roots
+
+  🦠🩸⚡️ Energy Vampire
+
+  🔥🔥🔥🔥 Ring of Fire
+
+  🔥☀️⚡️ Ray of Light
+
+  🌳❤️⚙️ Call of Trent
+
+  ⚡️❤️⚡️ Energy
+
+  🦠🦠🦠 Mutant summoning 🦠🦠🦠🦠 Mutant summoning
+
+  🦠🌫💀 Poisoning
+
+  🦠⚙️🦠 Weapon Poisoning
+
+  💀💀💀💀 Black Hole
+
+  ⚡️💀🎲 Random Lightning
+
+  ⚡️💀⚡️ Lightning
+
+  🎲🎲🎲 Renunciation
+
+  ⚡️⚡️⚡️ Electrification'
+ice_heart.spell.glossary: '❤️❄️❄️ - Frost heart
+
+  Blocks the caster for 5 turns (If used on the first turn, the next turn is on the
+  7th).
+
+  Casts 5 armour on yourself/allied target (until destroyed).
+
+  If the armour is destroyed, the target loses 1hp.
+
+
+  Armour does not stack, i.e. if you are spelled twice in a turn, you will still have
+  5 armour.'
+freezing_air.spell.glossary: '💧🌫❄️ - Frozen Air
+
+  Blocks the caster for 2 turns(If used on the first turn - next on turn 4.)
+
+  The spell blocks energy recovery from rest, items (adrenaline/jet) and abilities
+  (sadist/berserk) for 2 turns:
+
+  For the current turn (when the spell was used and the next turn).'
+gravity_anomaly.spell.glossary: '🔥❄️⚙️ - Gravity Anomaly
+
+  Blocks the caster for 0 turns (If used on the first turn - next on turn 2.)
+
+  Knocks weapons out of the selected target''s hands.'
+water_shield.spell.glossary: '💧❤️💧 - Water Shield
+
+  Blocks the caster for 3 turns (If used on the first turn - next turn on turn 5.)
+
+  Casts a water shield on yourself/allied target.'
+mass_bleeding.spell.glossary: '🩸🩸🩸🩸 - Mass Bleed
+
+  Blocks the caster for 1 turn (If used on the first turn, the next turn is on the
+  3rd turn.)
+
+  Bleeds all players (including allied targets and the caster).'
+single_bleeding.spell.glossary: '🩸🌫🩸 - Single Bleed
+
+  Blocks the caster for 1 turn (If used on the first turn - next turn on the 3rd turn.)
+
+  Inflicts bleeding on the selected target.'
+sword_of_light.spell.glossary: '🔥🩸☀️ - Sword of Light
+
+  Blocks the caster for 2 turns (If used on the first turn - next turn on turn 4.)
+
+  Replaces the caster''s/allied target''s weapon with Sword of Light.'
+roots.spell.glossary: '🩸🌳☀️ - Roots
+
+  Blocks the caster for 2 turns (If used on the first turn - next turn on turn 4.)
+
+  Selected target takes 1 damage for 2 turns.'
+energy_stealing.spell.glossary: '🦠🩸⚡️ - Energy Vampire
+
+  Blocks the caster for 2 turns (If used on the first turn - next turn on turn 4.)
+
+  Sucks 2⚡️ from the selected target.'
+fire_ring.spell.glossary: '🔥🔥🔥🔥 - Ring of Fire
+
+  Blocks the caster for 3 turns (If used on the first turn - next turn on turn 5.)
+
+  Set all targets (including allied targets and the caster himself) on fire, inflicting
+  3 units of burning (target takes 3 damage and loses 2 energy).'
+ray_of_light.spell.glossary: '🔥☀️⚡️ - Ray of Light
+
+  Blocks the caster for 3 turns (If used on the first turn - next turn on turn 5.)
+
+  Deals 1-2 damage to the chosen target, and imposes 2 weaknesses for 3 turns.'
+invocation_of_trent.spell.glossary: '❤️🌳⚙️ - Summon Trent
+
+  Blocks the caster for 6 turns (If used on the first turn - next turn on turn 8.)
+
+  Trent has 1 xp, 5 energy, 6 damage limit.
+
+  Trent can roll and extinguish.
+
+  Trent deals 1-3 damage with his attack and deals 100% chance to cast Roots on the
+  target.
+
+  Roots deal 1 damage to the target for the next turn.'
+energy.spell.glossary: '⚡️❤️⚡️ - Energos (cringe name, I agree)
+
+  Blocks the caster for 3 turns (If used on the first turn - next on turn 5.)
+
+  Can be used on self/allied target
+
+  Increases the target''s maximum energy by 2⚡️, and fully restores energy.'
+mutant_summoning.spell.glossary: '🦠🦠🦠 - Summon Mutant Virus
+
+  Blocks the caster for 5 turns (If used on the first turn - next turn 7.)
+
+  Virus is - hostile to the caster
+
+  Virus has 6hp, 5 energy, 6 damage limit, gas mask
+
+  Virus cannot roll or extinguish.
+
+  Virus lives:
+
+  Either: 3 turns of attack (attack the target with the highest current energy (if
+  both targets have equal energy, a random target is attacked)
+
+  Includes misses. Virus can attack three turns in a row, maybe not in a row, but
+  the point is that after three attacks it dies.
+
+  Or: after 5 turns, including if the virus has 2/3 attacks done.'
+poisoning.spell.glossary: '🦠💀🌫 - Infection
+
+  Blocks the caster for 2 turns (If used on the first turn - next turn on turn 4.)
+
+  Target will lose 2⚡️ each turn until rested.'
+black_hole.spell.glossary: '💀💀💀💀 - Black Hole
+
+  Kills a player, with an 8% chance of killing all players.'
+lightning_bolt.spell.glossary: '💀🎲⚡️ - Strong (random) Lightning
+
+  Blocks the caster for 2 turns (If used on the first turn - next turn on turn 4.)
+
+  Attacks a random target dealing 1-9 damage.'
+weak_lightning.spell.glossary: '💀⚡️⚡️ - Weak Lightning
+
+  Blocks the caster for 3 turns (If used on the first turn - next turn on turn 5.)
+
+  Attacks the chosen target dealing 1-3 damage.'
+renunciation.spell.glossary: '🎲🎲🎲🎲 - Denial
+
+  Removes a caster from the player, instead granting a random (not unique) ability.
+
+  (Random from: double-core, strong skull, medic, berserk, gas mask, pyrotechnic,
+  alchemist, hoarder, addict)'
+field_electrification.spell.glossary: '⚡️⚡️⚡️ - Electrify the battlefield
+
+  Blocks the caster for 3 turns (If used on the first turn - next turn on the 4th
+  turn.)
+
+  After 3 turns an explosion will occur that will deal 5 damage to everyone (including
+  allies and the caster).'
+poisoning_weapons.spell.glossary: '🦠🦠⚙️ - Weapon Poisoning
+
+  Blocks the caster for 1 turn (If used on the first turn - next on turn 3.)
+
+  Target will lose 1⚡️ each time it attacks for two turns.'

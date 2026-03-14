@@ -1,0 +1,225 @@
+go.back: 🔙 Go back
+move_on: 🔜 Next page
+navigation: 🧭 Navigation
+page.one.left: ⬅️ Page one
+page.two.left: ⬅️ Page 2
+page.three.left: ⬅️ Page 3
+page.one.right: ➡️ Page 1
+page.two.right: ➡️ Page 2
+page.three.right: ➡️ Page 3
+menu: 🕎 Menu
+effects: ✨ Effects
+deluxe_effect: 👾 Deluxe effects
+all.abilities: 🧬 Abilities
+descriptions.weapons: 📜 Weapons descriptions
+items: 💣 Items
+other_questions: Other questions
+melee.weapons: Melee Weapons
+range.weapons: Ranged Weapons
+unique.weapons: Unique weapons
+how_to_play: How do you play veganwars?
+battle.basics: Battle basics (or how to play)
+weapons: ⚔️ Weapons
+boss_fight: 👹 Boss Fight
+all_abilities: 🧬All Abilities
+unique_abilities: 🏆Unique abilities
+deluxe_abilities: 👾Deluxe abilities
+thrifty: Thrifty
+double_core: Double Core
+inquisitor: Inquisitor
+sadist: Sadist
+berserk: Berserk
+ninja: Ninja
+medic: Medic
+alchemist: Alchemist
+shield_generator: Shield Generator
+biceps: Biceps
+engineer: Engineer
+pyrotechnician: Pyrotechnician
+thief: Thief
+gas_mask: Gas Mask
+strong_skull: Strong Skull
+zombie: Zombie
+gunsmith: Gunsmith
+addict: Addict
+final_blow: Final blow
+pyromaniac: Pyromaniac
+aim: Aim
+vizor: Visor
+concentration: Concentration
+weapons_master: Weapons master
+hypnotist: 🤖Hypnotist
+regeneration: 🤫Regeneration
+bloodthirstiness: 🤫Bloodthirstiness
+witchfinder: 🤫 👨‍👧‍👦Witchfinder
+necromancer: 👨‍👧‍👦Necromancer
+ritualist: 👨‍👧‍👦Ritualist
+gunner: 👨‍👧‍👦Gunner
+dash: 🕳Dash
+dark_energy: 🕳Dark energy
+tentacles_of_hell: 🕳Tentacles of hell
+dragon_power: 🕳Dragon power
+doom: 🏆DOOM
+the_magic_of_explosion: 🏆The magic of explosion
+bloodseeker: 🏆Bloodseeker
+sapper: 🏆Miner
+echo: Echo
+heroism: Heroism
+mimic: Mimic
+sweet_tooth: Sweet tooth
+tactician: Tactician
+the_magic_of_explosion.deluxe: The magic of explosion
+toad: Toad
+stun: 🌀 Stun
+burning: 🔥 Burning
+bleeding: 🩸 Bleeding
+wound: 🩸 Wound
+disequilibrium: 🚷 Disequilibrium
+knocking_out_weapons: ⛓ Weapon Knockout
+crippled: 🤕 Crippled
+fear: 👁⚫️⚫️👁 Fear
+freezing: ❄️ Freezing
+water_shield: 🔋 Water shield
+weakness: ☀️ Weakness
+armor_reduction: ⛓️‍💥|Armor reduction
+emptiness: 🎆 Emptiness
+mutilation: 🦴 Mutilation
+deluxe_weakness: 🫠 Weakness
+effect_regeneration: 💗 Regeneration
+dehydration: 🍷 Dehydration
+corrosive_mucus: 🩲 Corrosive mucus
+hunger: 😋 Hunger
+more_about_the_basics: 👊 More About the Basics
+battle_mechanics: 👊 Battle Mechanics
+how_to_deal_damage.one: 👊 How to Deal Damage 1
+how_to_deal_damage.two: 👊 How to Deal Damage 2
+axe: Axe
+cleaver: Cleaver
+club: Club
+hammer: Hammer
+maul: Maul
+torch: Torch
+knife: Knife
+stave: Stave
+bat: Bat
+saber: Saber
+chain: Chain
+brass_knuckles: Brass knuckles
+spear: Spear
+baton: Baton
+steel_claws: Steel claws
+fists: Fists
+one_punch: One punch!
+scimitar: Scimitar
+flamethrower: Flamethrower
+bow: Bow
+saw: Saw
+revolver: Revolver
+pistol: Pistol
+sawn_off_shotgun: Sawn off shotgun
+sniper_rifle: Sniper rifle
+shurikens: Shurikens
+shotgun: Shotgun
+grenade_launcher: Grenade launcher
+water_cannon: Water cannon
+machine_gun: Machine gun
+frosty_bow: Frosty bow
+staff_of_the_necromancer: 🕳Necromancer staff
+katana: 🏆Katana
+bow_Asgard: 🏆Bow Asgard
+electric_shocker: 🤖Electric shocker
+rapier: 🤺🏆Rapier
+Narsil_flamethrower: 🏆Narsil's flamethrower
+Narsil_spear: Narsil's spear
+old_design: Past item design
+grenade: ⚪️ Grenade
+molotov_cocktail: ⚪️ Molotov cocktail
+shield: ⚪️ Shield
+light_grenade: ⚪️ Light grenade
+adrenaline: ⚪️ 💉 Adrenaline
+jet: ⚪️ 💉 Jet
+chitin: ⚪️ 💉 Chitin
+throwing_knife: ⚪️ Throwing knife
+stimulator: 🧬 💉 Stimulator
+rage_serum: 🧬 💉 Rage serum
+homemade_bomb: 🧬 Homemade bomb
+cryo_grenade: ⚪️ 👾 Cryo-grenade
+death_grenade: 🧬 👾 Death grenade
+mucus_in_the_bottle: ⚪️ 👾 Mucus in the bottle
+energy_grenade: ⚪️ 👾 Energy grenade
+candies: 🧬 👾 Candies
+spellcaster: 🔮Spellcaster
+ice_heart.spell: (❤️❄️❄️)Ice heart
+freezing_air.spell: (💧🌫❄️)Freezing air
+gravity_anomaly.spell: (🔥❄️⚙️)Gravity anomaly
+water_shield.spell: (💧❤️💧)Water shield
+mass_bleeding.spell: (🩸🩸🩸)Mass bleeding
+single_bleeding.spell: (🩸🌫🩸)Single bleeding
+sword_of_light.spell: (🔥🩸☀️)Sword of light
+roots.spell: (🩸🌳☀️)Roots
+energy_stealing.spell: (🦠🩸⚡️)Energy vampirism
+fire_ring.spell: (🔥🔥🔥)Fire ring
+ray_of_light.spell: (🔥☀️⚡️)Ray of light
+invocation_of_trent.spell: (🌳❤️⚙️)Invocation of trent
+energy.spell: (⚡️❤️⚡️)Energy
+mutant_summoning.spell: (🦠🦠🦠)Invocation of mutant
+poisoning.spell: (🦠⚙️🦠)Poisoning
+poisoning_weapons.spell: (🦠🌫💀)Poisoning weapons
+black_hole.spell: (💀💀💀)Black hole
+lightning_bolt.spell: (⚡️💀🎲)Accidental lightning
+weak_lightning.spell: (⚡️💀⚡️)Lightning
+renunciation.spell: (🎲🎲🎲)Renunciation
+field_electrification.spell: (⚡️⚡️⚡️)Electrification
+vampire: Vampire
+skeleton_king: Skeleton king
+demon_lord: Demon lord
+dungeon.guide: Dungeons guides
+dungeon.rhino: First Dungeon/Rhino
+dungeon.rhino.teams: Rhino in a group pass
+dungeon.rhino.Tuman: Rhino guide by Tuman
+dungeon.necromancer: Second Dungeon/Necromancer
+dungeon.necromancer.interesting_facts: Interesting (and not so interesting) facts
+  about the necromancer
+dungeon.necromancer.Tuman: Necromancer guide by Tuman
+dungeon.dark: Third Dungeon/Darkness
+dungeon.dark.teams: Darkness in a group pass
+dungeon.dark.Tuman: Darkness guide by Tuman
+dungeon.hell: Fourth Dungeon/Alastor
+dungeon.hell.teams: Alastor in a group pass
+dungeon.hell.Tuman: Alastor guide by Tuman
+dungeon.dragon: Fifth Dungeon/Knight
+dungeon.dragon.teams: Mini-rhinoceros in a group walkthrough
+dungeon.dragon.Tuman: Knight guide by Tuman
+dungeon.boss: Dungeon Boss/Third Floor
+accuracy.calculator: Accuracy сalculator
+choice_of_weapons: 'You''ve chosen: {weapon_name} {dice_count} 🎲, {accuracy} 🎯'
+energy_accuracy: '{energy_bars}|{energy} energies.
+
+  🎯|Chances of hitting - {total_accuracy}%'
+modifiers_accuracy: 'Modifiers: {modifiers_accuracy} 🎯 (= {base_accuracy} 🎯)'
+modifiers_accuracy_claws: 'Modifiers: {modifiers_accuracy} 🎯 (= {base_accuracy} 🎯),
+  {modifiers_dice} 🎲 (= {base_dice} 🎲)'
+modifiers_accuracy_sniper: 'Modifiers: {modifiers_accuracy} 🎯 (= {base_accuracy} 🎯),
+  {aiming_value} aimings'
+modifiers_accuracy_one_dice: 'Modifiers: {modifiers_accuracy} 🎯 (= {base_accuracy}
+  🎯), (= {base_dice} 🎲)'
+'on': 'on'
+'off': 'off'
+true_mode: 'True'
+extend_claws: Extend claws
+enemy_dodge: Enemy roll
+aiming: Aiming
+rounding: Rounding
+one_dice: One dice(🎲)
+bloodthirstiness.calculator: Bloodthirstiness
+dodge: Dodge
+turn_info: 📅 *Turn {turn}*
+cooldown_used_info: '{ability} (cd {cd}), next on {next_turn} (turn {used_turn})'
+cooldown_ready_info: '{ability} (cd {cd}), next on {next_turn}'
+choose_section: Choose section
+flittermouse: 🦇 Flitter mouse
+hellfire: 💀🔥 Hellfire
+blazing_blade: Blazing blade
+only_selected_here: 🎯 Only selected here
+selected_everywhere: 🌎 Selected everywhere
+show_all: 🔁 Show all

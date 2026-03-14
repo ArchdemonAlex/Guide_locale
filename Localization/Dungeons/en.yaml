@@ -1,0 +1,694 @@
+dungeons.menu.glossary: 'Welcome to the dungeon guide section.
+
+  Before you open the guide, read the warning from the developer:
+
+
+  Don''t spoil your enjoyment of the game with dungeon tips, try to pass it yourself
+  first!'
+dungeon.rhino.glossary: '🕳 First floor
+
+  Opponents: rat (number of rats = number of players going through the dungeon).
+
+
+  The rat is random, so no tips.
+
+
+  🕳 Second floor:
+
+  Opponents: rat, skeleton (number of rats and skeletons = number of players passing
+  the dungeon)
+
+
+  For effective passing it is recommended:
+
+  ✅ Spear - biceps, concentration, berserk.
+
+  ✅ Grenade launcher - sadist, scope/visor/thief, gas mask, alchemist.'
+dungeon.rhino.three_flour.glossary: "\U0001F573 Third floor:\nOpponents: Rhino (in\
+  \ @Veganwars_rebuild_bot with 3+ players there will be 2 rhinos)\n\n{rhino_characteristics}\n\
+  \nBasic rhino attack pattern (without rage):\nDash > attack > attack > rest\nBasic\
+  \ rhino attack pattern (with rage)\nDash > attack > attack > attack > rest\n\nWalkthrough\
+  \ tips (solo):\nLet's start with weapons, there are weapons that will be effective\
+  \ against the rhino, and there are weapons that will be little or no effective at\
+  \ all, and neutral\n\n✅ Effective: knife, sawblade, saber, pole, brass knuckles,\
+  \ police baton, steel claws, cleaver.\n❌Few and ineffective: axe, flamethrower,\
+  \ bow, sniper rifle, shotgun, sawed-off shotgun, chain, mace.  \nNeutral:\nEverything\
+  \ else\n\nRecommended abilities:\nNinja, strong skull, biceps, concentration, inquisitor,\
+  \ medic, biped, shield generator, alchemist, armourer (depending on weapon)\n\n\
+  The walkthrough itself:\nRhino Actions:\n(⚠️ please note, I do not take into account\
+  \ police baton, brass knuckles, light grenade, knocking down, parrying, and more)\n\
+  Dash > attack > attack > rest\nMove 1: Dash \nMove 2: Attack \nMove 3: Attack \n\
+  Move 4: Rest \n\n▫️ Move 1: I suggest rolling; even if you have a light grenade,\
+  \ I recommend holding it until the rhino rage; the same goes for parrying a saber,\
+  \ if you parry, chances are you'll still get stunned and lose a move.\nIf you have\
+  \ an alchemist, you can roll and use rabies serum on yourself.\n\nNow the rhino\
+  \ will act like this:\nattack > attack > rest\nMove 2: Attack \nMove 3: Attack \n\
+  Move 4: Rest \n\n▫️ Move 2. Attack/shield/inquisitor pray for rhino/throw throwing\
+  \ knife\n▫️ Move 3. Recharge/attack (depends on the amount of current energy, since\
+  \ the rhino will be resting, you should hit it on turn 4)\n▫️ move 4. Attack\n\n\
+  Now the rhino will act like this:\nDash > attack > attack > attack > rest\nMove\
+  \ 5: Roll \nMove 6: Attack \nMove 7: Attack \nMove 8: Rest \n\n▫️ Move 5. Since\
+  \ the roll is on cooldown, it is recommended to use shield, chitin, saber parry\
+  \ if none of these are available...\U0001FAE1\n▫️ move 6. Roll\n▫️ move 7. Recharge/attack\
+  \ (depends on the amount of current energy, since the rhino will be resting, you\
+  \ should hit it on turn 8)\n▫️ turn 8. Attack\n\nIf you're lucky, the rhino should\
+  \ be on a rampage by now\nSo, its pattern is now:\nDash > attack > attack > attack\
+  \ > rest\nMove 9: Dash \nMove 10: Attack \nMove 11: Attack \nMove 12: Attack\nMove\
+  \ 13: Rest \n\n▫️ move 9. If you have - light grenade, if not - roll, shield, chitin,\
+  \ sabre parry.... If none of these are available...\U0001FAE1\n▫️ move 10. Attack\n\
+  ▫️ move 11. Attack\n\nIf you're lucky, you've already won.... (or 100 times dead)"
+dungeon.rhino.solo_characteristics.glossary: "Rhino Characteristics (solo):\n♥️♥️♥️♥️♥️|5\
+  \ lives. Maximum: 5\n⚡️⚡️⚡️|3 energy. Max: 3\n\U0001F494x9/9 wounds. Affects loss\
+  \ of lives\n▪️Have 60% chance to block 2 units of damage per turn. \n▪️ Has the\
+  \ property of a gas mask - namely, it extinguishes if not set on fire. (but, light\
+  \ grenades work on him).\n▪️ Fury comes when the rhino has 50% xp rounded down (i.e.\
+  \ when it has 2/5 life).\n▪️ It has burst. It has a dash for 3 turns on cd. (i.e.\
+  \ if used on turn 1, the next turn 5).\n▪️ When jarked, there is a 70% chance of\
+  \ stun.\n▪️ If you are stunned (after being hit by the Dash or for other reasons)\
+  \ he can attack you, dealing +2 damage.\n▪️ For each attack - he spends 1 energy.\n\
+  \n\U0001F4A2 Fury:\n▪️ Instantly restores 1 energy.  \n▪️ Maximum Energy +1.  \n\
+  ▪️ Damage +1.  \n\nWeapons: horn\n⚔️|Horn.\n{horn_solo_info}"
+dungeon.rhino.teams.glossary: "{rhino_duo_characteristics}\n\n{rhino_trio_characteristics}\n\
+  \nPassing tips (in duo/trio):\n✅ Effective: knife, saw, sabre, pole, brass knuckles,\
+  \ police baton, steel claws, cleaver, mace, flamethrower\n❌ Few and ineffective:\
+  \ axe, bow, sniper rifle, shotgun, sawed-off shotgun, chain.\nNeutral: Everything\
+  \ else.\n\nToo many nuances to write a detailed walkthrough for a pack, but, here\
+  \ are two very successful strategies anyway:\n1. Each player should take a flamethrower\
+  \ and take turns, each turn, setting the rhino on fire, IMPORTANT, the fire on the\
+  \ rhino must not go out!\n2. At least two players must take the ability ‘darkness’,\
+  \ the rhino must be stunned (chitin on the rhino, prayer of the inquisitor on the\
+  \ rhino), wait until the stun should work. The first player throws darkness a turn\
+  \ before the stun, the second player throws darkness during the stun turn. (As an\
+  \ example, if you throw chitin on the rhino on the first turn, the first player\
+  \ throws darkness at the rhino on the third turn, and the second player throws darkness\
+  \ at the rhino on the fourth turn).\n\n⚠️ While the rhino is enraged, it:\n▪️ Instantly\
+  \ regenerates n energy.  \n▪️ Max energy +n.  \n▪️ Damage +n.\nWhere n is each player\
+  \ in the dungeon; but in addition to the players, the rhino also gains bonus stats\
+  \ for zombies raised by the Necromancer ability, as well as for creatures from the\
+  \ Necromancer's staff.\nStats are changed only during the turn of rage (i.e. once),\
+  \ subsequent resurrections and summons do not give bonus stats to the rhino."
+dungeon.rhino.teams.duo_characteristics.glossary: "Rhinoceros Characteristics (duo):\n\
+  ♥️♥️♥️♥️♥️♥️|6 lives. Maximum: 6\n⚡️⚡️⚡️|4 energy. Max: 4\n\U0001F494x9/9 wounds.\
+  \ Affects loss of lives\n▪️ Has a 60% chance to block 3 units of damage per turn.\
+  \ \n▪️ Has the property of a gas mask - namely, it extinguishes if not set on fire.\
+  \ (but, light grenades work on him).\n▪️ Fury comes when the rhino has 50% xp rounded\
+  \ down (i.e. when it has 3/6 life).\n▪️ Has dash. (+1 to damage) It has 3 turns\
+  \ of dash on cd. (i.e. If used on turn 1, the next turn 5).\n▪️ When dashed, it\
+  \ has a 70% chance to stun.\n▪️ If you are stunned (after being hit by the dash\
+  \ or for other reasons) he can attack you, dealing +2 damage.\n▪️ For each attack\
+  \ - he spends 1 energy.\n\n\U0001F4A2 Fury:\n▪️ Instantly restores 2 energy.  \n\
+  ▪️ Max energy +2.\n▪️ Damage +2.\n\nWeapons: horn\n⚔️|Horn\n{horn_duo_info}\n\n\
+  Basic rhino attack pattern (no rage in duo):\ndash > attack > attack > attack >\
+  \ rest\nRhino's basic attack pattern (with rage in duo):\ndash > attack > attack\
+  \ > attack > dash > attack > rest"
+dungeon.rhino.teams.trio_characteristics.glossary: "Characteristics of the rhinoceros\
+  \ (trio):\n♥️♥️♥️♥️♥️♥️♥️|7 lives. Maximum: 7\n⚡️⚡️⚡️|4 energy. Maximum: 4\n\U0001F494\
+  x9/9 wounds. Affects loss of lives\n▪️Имеет 60% chance to block 4 units of damage\
+  \ per turn. \n▪️ Has the property of a gas mask - namely, it extinguishes if not\
+  \ set on fire. (but, light grenades work on him).\n▪️ Fury comes when the rhino\
+  \ has 50% xp rounded down (i.e. when it has 3/7 life).\n▪️ Has dash. (+1 to damage)\
+  \ It has 3 turns of dash on cd. (i.e. If used on turn 1, the next turn 5).\n▪️ When\
+  \ dashed, it has a 70% chance to stun.\n▪️ If you are stunned (after being hit by\
+  \ the dash or for other reasons) he can attack you, dealing +2 damage.\n▪️ For each\
+  \ attack - he spends 1 energy.\n\n\U0001F4A2 Fury:\n▪️ Instantly restores 3 energy.\
+  \  \n▪️ Maximum Energy +3.\n▪️ Damage +3.\n\nWeapons: Horn\n⚔️|Horn\n{horn_trio_info}\n\
+  \nRhino's basic attack pattern (with rage in a trio):\ndash > attack > attack >\
+  \ attack > rest\nRhino's basic attack pattern (with rage in a trio):\ndash > attack\
+  \ > attack > attack > dash > attack > attack > attack > rest"
+dungeon.rhino.Tuman.glossary: 'Also, you can check out the Rhino dungeon guide from
+  another player (Тумана):
+
+  https://t.me/BlacK_Apr1L/29'
+dungeon.necromancer.glossary: "\U0001F573 First Floor\nOpponents: decrepit skeleton\
+  \ (number of skeletons = number of players going through the dungeon).\n\n▫️ It\
+  \ is necessary not to kill the skeleton. When the player has 1 life, the skeleton\
+  \ will surrender on its own\n\nRecommendations:  \n✅Alchemist - use on the skeleton.\
+  \  \n✅If you are in a team (2+ players), take a ritualist:\nFirst player (not the\
+  \ ritualist) press /suicide.\nThe second player (ritualist) throws a ritual on the\
+  \ first player.\nOn his next turn, throws lightning bolt at himself.\n\n{second_floor}\n\
+  \n{third_floor}"
+dungeon.necromancer.second_floor.glossary: "\U0001F573 Second Floor\nOpponents: decrepit\
+  \ skeleton, ghoul (number of skeletons and ghouls = number of players going through\
+  \ the dungeon). \n\n▫️ It is necessary not to kill the skeleton. After killing the\
+  \ ghoul, the skeleton will surrender itself.  \n\nGhoul|\U0001F479\n♥️♥️♥️♥️♥️♥️|6\
+  \ lives. Maximum: 6.\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5\n\U0001F494x4/4 wounds. Affects\
+  \ loss of lives\n(You can lower the damage threshold to 3/4 with the axe.)\n▪️ Vampirism:\
+  \ for every life taken, the ghoul regains a life.\n▪️ Ghoul's Bloodthirstiness:\
+  \ for each life taken from a player, increases damage by +1.\n▪️ Has the property\
+  \ of a gas mask - namely, it extinguishes if not set on fire. (but, light grenades\
+  \ work on him).\n\nWeapon:\n⚔️|Ghoul's teeth\n{ghoul_teeth_info}\n\nFor effective\
+  \ passing, it is recommended that you:\n✅ Recommended: sabre, cleaver, mace, axe,\
+  \ steel claws - biceps, concentration.\n✅ Shotgun, sniper rifle, pylot - scope.\n\
+  ✅ Shield generator, ninja.\n❌Ineffective: chain, flamethrower, brass knuckles.\n\
+  ❌Prohibited: grenade launcher, grenade, molotov cocktail, alchemist - can kill a\
+  \ skeleton."
+dungeon.necromancer.third_floor.glossary: "\U0001F573 Third floor \nOpponents: Necromancer\n\
+  \n{necromancer_characteristics}\n\nPassing tips (solo):\n✅ Recommended weapons:\
+  \ grenade launcher, sabre, pole\n✅ Recommended abilities: alchemist, strong skull,\
+  \ bipedalism, medic, shield generator, ninja.\nNot recommended: Pyrotechnician,\
+  \ Berserk (as the fight will be long and there will be a ghoul among the enemies,\
+  \ it will be difficult to beat him on 1 xp), cleaver (as it loses damage bonus with\
+  \ attacks).\n\nThe walkthrough itself:\nNecromancer itself does not attack or do\
+  \ anything.\n\n▫️ Turn 1: approach or hit necromancer. \U0001F53ADon't throw knife.\n\
+  \n▫️ Now that you have attacked the necromancer - reload, as he spends a turn (and\
+  \ gets a shield) to summon minions. He will summon two decrepit skeletons\n▫️ They\
+  \ will either approach or roll (if you have a ranged weapon). Throwing a grenade\
+  \ or a cocktail of hammers at the skeletons is recommended.\n\n\U0001F539 I strongly\
+  \ recommend that after minions die and before the next minions are summoned - do\
+  \ not attack the necromancer, but just skip moves - to restore the cooldown of the\
+  \ reroll and abilities\n\n▫️ Now, when you have waited for all abilities to regenerate,\
+  \ attack the necromancer. After the attack, reload. He will summon the ghoul.\n\
+  ▫️ You just need to kill the ghoul as you did on the previous floor.\n▫️ After killing\
+  \ the ghoul, again, do not attack the necromancer (watch \U0001F539).\n\n▫️ When\
+  \ you have waited for all abilities to cooldown - attack the necromancer. After\
+  \ the attack - reload. He will summon a zombie rat.\n▫️ Zombie rat, has random weapons,\
+  \ abilities and items. The rat is random, so there are no tips.\n\n▫️ Once the zombie\
+  \ rat is dead, attack the Necromancer immediately—no need to wait for ability cooldowns;\
+  \ dungeon cleared."
+dungeon.necromancer.necromancer_characteristics.glossary: 'Necromancer|🖤
+
+  ♥️♥️♥️♥️|4 lives. Maximum: 4
+
+  ⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5
+
+  💔x1000/1000 wounds. Affects loss of life
+
+  ▪️ Immune to bleed, ritual, last strike.
+
+  ▪️ Reflects darkness energy into the player (casting 50 fear at once, killing the
+  player).
+
+  ▪️ Cannot improve pyrotechnic bomb (when improved, explodes the bomb causing 3 damage
+  to the player (the bomb is lost)).
+
+  ▪️ When losing lives - summons minions, until a minion is killed, the necromancer
+  will be under an impenetrable shield.
+
+
+  Necromancer''s minions:
+
+  ▪️ At 3 life (♥️♥️♥️), summons two decrepit skeletons (+2 for each player).
+
+  ▪️ At 2 life (♥️♥️), he summons one ghoul (+1 for each player).
+
+  ▪️ At 1 life (♥️), it summons one zombie rat (+1 per player).'
+dungeon.necromancer.interesting_facts.glossary: "️Necromancer (at the moment), the\
+  \ only boss that does not change its characteristics, no matter how many players\
+  \ come to the dungeon.\n\n◾️ If you kill a decrepit skeleton, on the third floor\
+  \ (where the necromancer himself is) instead of normal combat, you will first have\
+  \ to kill huge evil skeletons (the number of huge evil skeletons depends on how\
+  \ many decrepit skeletons you killed on previous floors).\n\nHuge evil skeleton|\U0001F480\
+  \n♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️|12 lives. Maximum: 12\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum:\
+  \ 5\n\U0001F494x100/100 wounds. Affects loss of lives\nSkills: Biceps\nWeapon: Marble\
+  \ Column - 5⚡️\n\U0001F3AF|Hit probability - 100%\n\nWeapon:\n⚔️|Marble Column\n\
+  When hit, it stuns, knocks you down, and inflicts bleeding. Can deal 2x damage (i.e.\
+  \ 30 damage).\n{marble_column_info}\n \n◾️ The necromancer has two endings after\
+  \ defeating him:\n\n▫️This text appears after a regular Necromancer run:\n\nYou\
+  \ feel a strange power. You wave the staff—and a translucent barrier forms around\
+  \ you. A few seconds later, from the archway that serves as the entrance to this\
+  \ hall, the decrepit skeleton you chose not to kill appears.\n\n\U0001F4ACDecrepit\
+  \ Skeleton|\U0001F9B4: Maa-aa-aster! Gii-iive your co-o-ommands!\n\nThe power you\
+  \ felt is the power to command the dead. Along with it, you can now understand what\
+  \ they say. And your first command was...\n\n\U0001F4ACAlex: Alex commands—you are\
+  \ free!\n\n\U0001F4ACDecrepit Skeleton|\U0001F9B4: Thaa-aa-ank you...\n\nThe skeleton\
+  \ then crumbled into a simple pile of bones. Back in the first battle, you already\
+  \ sensed that even the afterlife tired him.\nOnce the command was carried out, the\
+  \ magical barrier around you vanished, and you felt a sudden drain of energy.\n\n\
+  ▫️And this one appears if you kill the giant skeleton and then the Necromancer:\n\
+  \nYou feel a strange power. You wave the staff—and a translucent barrier forms around\
+  \ you. A few seconds later, a skeleton digs its way out from the ground.\n\n\U0001F4AC\
+  Skeleton|\U0001F480: Maa-aa-aster! Gii-iive your co-o-ommands!\n\nThe power you\
+  \ felt is the power to command the dead. Along with it, you can now understand what\
+  \ they say.\n\n\U0001F4ACAlex: Alex commands—return to the earth!\n\n\U0001F4AC\
+  Skeleton|\U0001F480: As you wii-iish!\n\nThe skeleton then buried itself back into\
+  \ the ground.\n\nOnce the command was carried out, the magical barrier around you\
+  \ vanished, and you felt a sudden drain of energy.\n\n◾️ If you prolong the battle\
+  \ (e.g. skip moves) you will get this text on the 150th move:\n\nMove 150:\n\U0001F4AC\
+  |Necromancer||\U0001F5A4: I'm out of tea and candy, I don't want to wait any longer.\
+  \ Die now!\nEffects 150:\n\U0001F4A5⚡️|The hall shuddered. The entire ceiling was\
+  \ covered in black clouds, which a second later began showering the hall with lightning.\
+  \ All the heroes are dead, the game is over."
+dungeon.necromancer.Tuman.glossary: 'Also, you can check out the Necromancer dungeon
+  guide from another player (Тумана):
+
+  https://t.me/BlacK_Apr1L/31'
+dungeon.dark.glossary: '🕳 First Floor:
+
+  Opponents: shadow rat (number of shadow rats = number of players going through the
+  dungeon)
+
+
+  ▫️ You need to select the ‘medic’ ability before combat and give the stimulant to
+  the shadow rat on the first turn.
+
+
+  After that it gets 2 life and can now be killed. It also gets random weapons, abilities
+  and items. The rat is random, so no advice.
+
+
+  {second_floor}'
+dungeon.dark.second_floor.glossary: "\U0001F573 Second Floor:\nOpponents: amalgam\
+  \ (number of amalgams = number of players going through the dungeon)\n\nAmalgam|\U0001F9FF\
+  \n♥️♥️♥️♥️♥️♥️|6 lives. Maximum: 6\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5 \n\U0001F494\
+  x38/38 wounds. Affects loss of lives\n▪️ Mutation: restores energy during each mutation,\
+  \ and also has three forms of mutation:\n▪️ Very Vicious Dog: bites two turns in\
+  \ a row after transformation\n ⚔️|Dog's Mouth\n{dog_maw_info}\n▪️Human form: after\
+  \ transforming, attacks with a huge cleaver for 10 damage (but there's low accuracy,\
+  \ can miss)\n ⚔️|Huge cleaver\n{huge_cleaver_info}\n▪️ Cannon: After transforming,\
+  \ spends a turn to ‘charge’ the cannon, then fires it. On hit, the attack is guaranteed\
+  \ to remove 1 life and stun.\n ⚔️|Shadow Cannon\n{shadow_cannon_info}\n▪️ The amalgam\
+  \ takes on a random form, but cannot apply the form it was just in. \n▪️ Fear: After\
+  \ completing the mutation, takes its ‘true’ form by imposing (2) fear on a random\
+  \ player. (But if ‘info’ is pressed once, subsequent impositions will impose (1)\
+  \ fear).\n▪️ It has the property of a gas mask - namely, it extinguishes if not\
+  \ set on fire, but, it only extinguishes when it completes mutation! (but, light\
+  \ grenades work on it).\n\nTips for passing (solo):\n✅ Effective: knife, flamethrower,\
+  \ torch, bow, steel claws, saber.\n❌ Few and ineffective: axe, sniper rifle, chain,\
+  \ mace, pole, knuckles.\nThe walkthrough itself:\n▫️ Move 1: I recommend spending\
+  \ it either to approach (if you have a melee weapon) or to press info.\n\n▫️ Against\
+  \ a dog I recommend attacking or reloading (if low on energy) or getting rid of\
+  \ fear (if more than 3 fear).\n▫️ Against a cleaver I recommend using shield, parry.\n\
+  ▫️ Against the cannon, I recommend that while it is charging, attack or reload (if\
+  \ low on energy) or get rid of fear (if more than 3 fear), and use a roll or light\
+  \ grenade while firing.\n\n▫️Рекомендую go through the fire, and ignite either when\
+  \ the fire should go out (i.e. after the move) or when the amalgam comes out of\
+  \ mutation."
+dungeon.dark.boss.glossary: "\U0001F573 Third Floor:\nOpponents: Darkness\n{darkness_characteristics}\n\
+  \nPassing tips (solo):\n✅ Recommended weapons: knife, steel claws, bat, water cannon,\
+  \ saw, revolver.  \n❌ Few and ineffective weapons: axe, sniper rifle, chain, mace,\
+  \ pole, knuckles, sabre, flamethrower, torch, bow.\n✅Recommended abilities: inquisitor,\
+  \ gas mask, alchemist, sadist, berserk, shield generator.\n❌ Not recommended: pyrotechnician,\
+  \ ninja (roll chance from eyes = 100% and no ninja)\n\nThe walkthrough itself:\n\
+  ▫️ It starts with ‘you are running away from an evil creature’, you need to press\
+  \ /suicide (⚠️ Very important: suicide should only be pressed when the keyboard\
+  \ appears, otherwise you may unironically die).\n\n▫️ Move 2: darkness is targeting\
+  \ you, approach (if melee weapon) or attack.\n▫️ Move 3: the darkness should now\
+  \ attack you with one of its eyes, I advise, the first eyes are to roll, roll before\
+  \ the black eyes!\n\n\nNow the darkness will act like this:\nTargeting (\U0001F534\
+  /\U0001F535/\U0001F7E3) > attack > Targeting (\U0001F534/\U0001F7E3) > attack >\
+  \ attack (⚫️)\nmove 4: Targeting\nmove 5: Attack\nmove 6: Targeting\nMove 7: Attack\n\
+  Move 8: Black eye attack\n\n▫️ If darkness uses \U0001F534 - shield or extinguish\
+  \ or pray inquisitor, no need to attack! (but you can only if you are wearing a\
+  \ water shield)\n▫️ If darkness uses \U0001F535 - attack or shield.\n▫️ If darkness\
+  \ uses \U0001F7E3 - attack!\n▫️ If darkness uses ⚫️ - roll or inquisitor pray for\
+  \ yourself (if you have berserk).\n\n▫️ While targeting, attack, get rid of fear\
+  \ or reload, as appropriate.\n\n▫️ Darkness doesn't have a life count, instead it\
+  \ says it lost an eye, you need to make it lose 10 eyes,\n▫️ After you have knocked\
+  \ out her 10 eyes, there will additionally be a ‘run out of room’ button, you need\
+  \ to press it."
+dungeon.dark.boss.darkness_characteristics.glossary: "Darkness|\U0001F441\U0001F311\
+  \U0001F311\U0001F441\n♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️|10 lives. Maximum: 10\n⚡️⚡️⚡️⚡️⚡️|5 energy.\
+  \ Maximum: 5\n\U0001F494x1000000/1000000 wounds. Affects loss of lives\n\n▪️Глаза:\
+  \ has 4 eye forms:\n\n1. Red (\U0001F534).  \n - Do 3 damage and set on fire with\
+  \ a power of 6  \n   Example: ‘\U0001F525|Alex is on fire! - Loses 5 energy and\
+  \ takes 6 damage.’  \n2. Blue (\U0001F535)  \n - Deals 1 to 3 damage  \n - Stun\
+  \ for 1 turn  \n3. Purple (\U0001F7E3).  \n - Does not deal damage, but inflicts\
+  \ 4 fear.\n4. Black (⚫️)  \n - Deals 8 damage  \n - Guaranteed to take 2 life  \n\
+  \ - Remove 1 maximum unit of energy\n\nMore information on eyes:\n\n▪️ Black eyes\
+  \ always come after red, blue and purple eyes, i.e. at the end of the cycle.  \n\
+  ▪️ Red, blue and violet go in random order, BUT, blue eyes are never last.\n▪️ Before\
+  \ the eyes attack, darkness spends a turn, there will be ‘aiming’. Black, on the\
+  \ other hand, attacks instantly.\n▪️ Has the property of a gas mask - namely, it\
+  \ extinguishes if not set on fire. Light grenades also don't work against it.\n\n\
+  Basic darkness attack pattern:\nAim (\U0001F534/\U0001F535/\U0001F7E3) > attack\
+  \ > Aim (\U0001F534/\U0001F535/\U0001F7E3) > attack > Aim (\U0001F534/\U0001F7E3\
+  ) > attack > attack (⚫️)"
+dungeon.dark.teams.glossary: "Characteristics of darkness in a group:\nThe darkness\
+  \ has from the number of members, only xp, damage and burning power of red eyes,\
+  \ damage and stun duration of blue eyes grows.\n\n♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️|10 lives.\
+  \ Maximum: 10\n- Optional: +5 lives for each player (starting with the second player).\n\
+  \  Example: a duo has 15 lives, a trio has 20 lives, and so on.\n⚡️⚡️⚡️⚡️⚡️|5 energy.\
+  \ Maximum: 5\n\U0001F494x1000000/1000000 wounds. Affects the loss of lives\n\n▪️\
+  \ Eyes: has 4 forms of eyes:\n\n1. Red (\U0001F534).  \n - Do 3 damage and set on\
+  \ fire with a power of 6  \n   Example: ‘\U0001F525|Alex is on fire!’ - loses 5\
+  \ energy and takes 6 damage  \n - Optional: +1 damage and +1 burning for each player\
+  \ (starting with the second player)\n2. Blue (\U0001F535)  \n - Deals 1 to 3 damage\
+  \  \n - Stun for 1 turn  \n - Optional: +1 damage and stun for 1 more turn for each\
+  \ player (starting with the second player).\n3. Purple (\U0001F7E3).  \n - Does\
+  \ not deal damage, but imposes 4 fears\n4. Black (⚫️)  \n - Deals 8 damage  \n -\
+  \ Guaranteed to take 2 life  \n - Remove 1 maximum unit of energy\n\nMore information\
+  \ on eyes:\n\n▪️ Black eyes always come after red, blue and purple eyes, i.e. at\
+  \ the end of the cycle.  \n▪️ Red, blue and purple go in random order, BUT, blue\
+  \ is never last\n▪️ Before the eyes attack, darkness spends a turn, it will ‘aim’.\
+  \ Black, on the other hand, attacks instantly.\n▪️ Has the property of a gas mask\
+  \ - namely, it extinguishes if not set on fire. Light grenades also do not work\
+  \ against it."
+dungeon.dark.Tuman.glossary: 'Also, you can check out the Darkness dungeon guide from
+  another player (Тумана):
+
+  https://t.me/BlacK_Apr1L/32'
+dungeon.hell.glossary: '🕳 First Floor
+
+  Opponents: Three-eyed demon (number of demons = number of players going through
+  the dungeon).
+
+
+  Three-eyed demon|👁👁👁👁
+
+  ♥️♥️♥️♥️|4 lives. Maximum: 4
+
+  ⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5
+
+  💔x6/6 wounds. Affects loss of life
+
+  Weapon: Tentacles - 2⚡️
+
+  🎯| 97% chance of hitting.
+
+  ▪️ Fire Touch - With a 100% chance on hit it sets fire.
+
+  ▪️ You can''t knock out weapons with a chain
+
+
+  For effective passing it is recommended:
+
+  ✅ Water cannon
+
+  ✅ Gas mask, pyromancer, alchemist
+
+
+  {second_floor}'
+dungeon.hell.second_floor_glossary: "\U0001F573 Second Floor:\nOpponents: Three-eyed\
+  \ Demon, Magma Worm (number of demons and worms = number of players going through\
+  \ the dungeon)\n\n⚠️ Very important - on the first turn, you must press skip move/extinguish.\
+  \ (If you have a water cannon, you can use water shield).\n\nMagma Worm|\U0001FAB1\
+  \n♥️♥️♥️|3 lives. Max: 3\n⚡️⚡️⚡️|3 energy. Maximum: 5\n\U0001F494x4/4 wounds. Affects\
+  \ loss of life\nWeapon: Worm Fangs - 2⚡️\n\U0001F3AF|A 88% chance of hitting.\n\
+  Abilities: \n▪️ Fire Resistance: The worm doesn't burn at all, but it has a pyromancer\
+  \ bonus.\n▪️ Underground Attack: Worm burrows into the ground (this turn it takes\
+  \ no attack damage, but it can take effects (bleeding, stun, knockdown, etc.)),\
+  \ the next turn it cannot be targeted, and it attacks, knocking the player down.\n\
+  ▪️ Worm, after losing life, sets everyone on fire with burning power 1 (including\
+  \ demon and other players (amount of xp lost = burning power)).\n▪️ Can't knock\
+  \ out weapons with a chain\n\nExamples of moves:\nMove 2:\n\U0001F573|Magma Worm\
+  \ 1|\U0001FAB1 burrows into the ground.\nMove 3:\n\U0001F573❗️|Magma Worm 1|\U0001FAB1\
+  \ bursts out of the ground next to the Player, attacking the target!\n\nFor effective\
+  \ playthrough, it is recommended that you:  \n✅ Grenade launcher, cleaver, claw,\
+  \ sniper rifle, water cannon, shotgun.\n✅ Sadist, scope/vision/vortex, gas mask,\
+  \ alchemist, pyromancer, concentration, bicep, junkie.\n\nWalkthrough tips (solo):\n\
+  If you have an alchemist, use on yourself on your first turn (only if you don't\
+  \ have a sniper rifle).\nThe worm has a low damage threshold, a shot from the sniper\
+  \ rifle (8 damage) will completely kill the worm, only the demon will be left to\
+  \ kill."
+dungeon.hell.boss.glossary: '🕳 Third Floor:
+
+  Opponents: Alastor
+
+
+  {Alastor_characteristics}
+
+
+  ▫️Necromancer''s staff, jerk, darkness - they are mandatory, without them you will
+  either pass or fail (in solo at least)
+
+  That leaves us with one ‘free’ ability, I recommend it:
+
+  ✅Recommended abilities: alchemist, armourer, shield generator, inquisitor.
+
+
+  Walkthrough tips (solo):
+
+  ▫️ Use the alchemist (if available) and darkness on yourself (and pray very hard
+  that it doesn''t take the form of 2️⃣ while the darkness is in cd)
+
+  The point is that thanks to the darkness, your attacks will get +1 damage, and abilities
+  that have a cooldown will be accelerated (including roll and dash).
+
+
+  Now you just have to slowly kill Alastor by countering his vanshots correctly.
+
+
+  ⚠️ Try not to summon the Necromancer''s staff ‘dead man''s rise’ before his attack,
+  firstly, the darkness does not affect the recharge, secondly, the Electric Beam
+  deals damage like a grenade (i.e. attacking all targets), this also applies to corpses,
+  including corpses from the Necromancer''s staff.
+
+  ⚠️Во time of dead man''s summoning, if possible, try to have 0 energy. Alastor with
+  an electric beam and hypnosis can break through the shield of the necromancer''s
+  staff!
+
+
+  ⚠️После the first pass of the dungeon, rolls, normal shields, inquisitor will save
+  you from ‘vanshot attacks’
+
+
+  🔺After the first pass (i.e. no more vanshots):
+
+  1️⃣🦏 Rhino
+
+  ▫️ Rhino attacks, dealing 15 damage.
+
+  2️⃣♨️ Shiver of the Earth
+
+  ▫️ Attack deals 3-6 damage + inflicts bleed.
+
+  3️⃣❗️ Scourge
+
+  ▫️ Attack deals 1-4 damage.'
+dungeon.hell.boss.Alastor_characteristics.glossary: "Alastor|❤️‍\U0001F525\n♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️|10\
+  \ lives. Maximum: 10\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5\n\U0001F494x8/8 wounds. Affects\
+  \ loss of life\n▪️ Immune to burning - and even cures for it!\n▪️ Hypnosis (makes\
+  \ the target attack itself next turn)\n▪️ Electric Beam (removes energy to 0 and\
+  \ attacks ALL players for the amount of energy removed, i.e. 0 energy - 0 damage,\
+  \ 5 energy - 5 damage (attack occurs after the player's action)).\n▪️ Wunshot Attacks:\n\
+  1️⃣\U0001F98F Alastor snaps his fingers - an enraged rhino appears from the depths\
+  \ of hell and stares at the player.  \nWhat to do:  \n▫️ You need to use a Jerk\
+  \ on the rhino - it doesn't matter if it hits or if it has energy. The main thing\
+  \ is to apply the jerk to the rhino and to the player the rhino is looking at.\n\
+  2️⃣♨️ Alastor snaps his fingers. The player feels a shiver under his feet...  \n\
+  What to do:  \n▫️ Need to use Darkness against Alastor.\n3️⃣❗️ Alastor increases\
+  \ in size, horns grow from his head, his smile turns into a grin...  \nWhat to do:\
+  \  \n▫️ You need to use ‘raising the dead’ (Necromancer's Staff)\n\nAlastor attacks\
+  \ with 1-3 damage almost every turn. \n\n⚠️ Important:  \nNo rolls (not even ninja),\
+  \ shields, inquisitor or any other actions save if the wrong one is chosen!"
+dungeon.hell.teams.glossary: "Characteristics of Alastor in a group:\nAlastor has\
+  \ from the number of members, grows his xp, damage limit and damage (and also the\
+  \ damage power of vanishing attacks, after the first pass) \n\nAlastor|❤️‍\U0001F525\
+  \n♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️|10 lives. Max: 10\n- Optional: +5 lives for each player (starting\
+  \ with the second player).\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5\n\U0001F494x8/8 wounds.\
+  \ Affects loss of lives\n- Optional: +2 wounds for each player (starting with the\
+  \ second player).\n\nAlastor Damage 1-3\n- Extra: +1 damage per player (starting\
+  \ with the second player).\n\nAlso, his third vanishing attack attacks ALL players!\
+  \ Be vigilant!\n3️⃣❗️ Alastor grows in size, horns grow from his head, his smile\
+  \ turns into a grin....  \n\nIf you passed the dungeon the first time, his attacks\
+  \ will no longer vanshoot, but in a group they are amplified\n\n⚠️ After the first\
+  \ dungeon, rolls, normal shields, inquisitor will save you from ‘vanshot attacks’.\n\
+  \n\U0001F53AAfter the first pass (i.e. no longer vanshoot):\n2️⃣♨️ Shiver of the\
+  \ Earth\n▫️ Attack deals 3-6 damage + bleed.\n- Optional: +4 max damage per player\
+  \ (starting with the second player).\n  i.e. 3-10 for a duo, 3-14 for a trio, etc.\n\
+  3️⃣❗️ Scalp\n▫️ Attack deals 1-4 damage to EVERY player.\n- Extra: +1 damage for\
+  \ each player (starting with the second player).\n\n\n▫️ Necromancer's staff, jerk,\
+  \ darkness - these are mandatory, without them you will either pass or fail.\n✅Recommended\
+  \ abilities: necromancer, alchemist, armourer, shield generator, inquisitor.\n\n\
+  As a group, the boss stage is very simple\n\nSince some attacks have a target, accordingly,\
+  \ it is this target that you need to do actions (except 3️⃣ which attacks all players).\n\
+  Here are a few lifehacks:\n▫️ If possible, take a necromancer; after the death of\
+  \ an ally/npcs from the staff of the necromancer - on cd pick up their corpses;\
+  \ Alastor's vanshot attack and normal attacks will target your zombies!\n▫️When\
+  \ the rhino is about to run at you, the other player throws darkness at the rhino;\
+  \ since the rhino can't get rid of the darkness, you get bonus damage and a bonus\
+  \ cooldown from the darkness!"
+dungeon.hell.Tuman.glossary: 'Also, you can check out the Alastor dungeon guide from
+  another player (Тумана):
+
+  https://t.me/BlacK_Apr1L/40'
+dungeon.dragon.glossary: "\U0001F573 First floor\nOpponents: mini rhino (number of\
+  \ mini rhinos = number of players passing the dungeon. Also the number of players\
+  \ increases the characteristics).\n\nMini Rhino|\U0001F98F\n♥️♥️♥️♥️|4 lives. Max:\
+  \ 4\n⚡️⚡️⚡️|3 energy. Max: 3\n\U0001F494x5/5 wounds. Affects loss of life\n▪️ Has\
+  \ a 50% chance to block 1 unit of damage per turn.\n▪️ Has the property of a gas\
+  \ mask - namely, it extinguishes if not set on fire. (but, light grenades work on\
+  \ it).\n▪️ Fury comes when rhino has 50% xp rounded down (i.e. when he has 1/4 life).\n\
+  ▪️ It has jerk. His jerk has a cd of 3 turns. (i.e. if used on turn 1, the next\
+  \ turn 5).\n▪️ When jerked, it has a 70% chance to stun.\n▪️ If you are stunned\
+  \ (after being hit by the jerk or for other reasons) he can attack you, dealing\
+  \ +2 damage.\n▪️ For each attack - he spends 1 energy.\n\n\U0001F4A2 Fury:\n▪️ Instantly\
+  \ restores 1 energy.\n▪️ Maximum Energy +1.  \n▪️ Damage +1.\n\nOf weapons: horn\n\
+  ⚔️|Horn\n\U0001F4A2 Damage: 1-3\n\U0001F3AF Accuracy: 4\n⚡️ Energy expenditure:\
+  \ 1\n\U0001F44A Melee\n\nRhino's basic attack pattern (no rage):\nJerk > attack\
+  \ > attack > rest\nBasic rhino attack pattern (with rage)\nJerk > attack > attack\
+  \ > attack > rest\n\nFor effective passing, it is recommended that you:\n✅ cleaver,\
+  \ steel claws, sniper rifle, shotgun\n✅ berserk, alchemist, ninja, concentration,\
+  \ biceps\n\n▫️ Move 1: I recommend rolling; even if you have a light grenade, I\
+  \ recommend holding it until the rhino rage; the same goes for parrying a saber,\
+  \ if you parry, chances are you'll still get stunned and lose a move.\nIf you have\
+  \ an alchemist, you can roll and use the rabies serum on yourself.\n\nNow the rhino\
+  \ will act like this:\nattack > attack > rest\nMove 2: Attack\nMove 3: Attack\n\
+  Move 4: Rest\n\n{second_floor}"
+dungeon.dragon.second_floor_glossary: "\U0001F573 Second floor:\nOpponents: Dragon\
+  \ (number of dragons = number of players going through the dungeon\n\nDragon|\U0001F426\
+  ‍\U0001F525\n♥️♥️♥️♥️♥️♥️|6 lives. Maximum: 6\n⚡️⚡️⚡️⚡️⚡️|5 energy. Max: 5\n\U0001F494\
+  x7/7 wounds. Affects loss of lives\nAbilities:\n▪️ Has the property of a gas mask\
+  \ - namely, it extinguishes if not set on fire. (but, light grenades work on him)\n\
+  ▪️ Fireball - attacks the player with a ranged ability, if the player is approached\n\
+  Fireball deals 1-5 damage and sets on fire with a power of 1-4.\n▪️ Wingspan - repels\
+  \ players who approach.\n\nWeapons: Dragon Claws\n⚔️|Dragon Claws\nHave a 50% chance\
+  \ to bleed the target.\n\U0001F4A2 Damage: 1-3\n\U0001F3AF Accuracy: 2\n⚡️ Energy\
+  \ expenditure: 2\n\U0001F44A Near.\n\nFor effective passing, it is recommended that\
+  \ you:  \n✅ Grenade launcher, cleaver, claws, sniper rifle, water cannon, brass\
+  \ knuckles, knife.\n✅ Gas mask, strong skull, bipedalism, pyromancer, jerk, alchemist.\n\
+  \nPassing tips (solo):\nThe dragon has 2 main attack patterns: throw fireballs in\
+  \ ranged combat and attack with claws in melee combat\nIf you don't have a water\
+  \ hammer, it is recommended to impose melee combat on the dragon (even if you have\
+  \ a ranged weapon)\n\nHow to do it:\n▫️ Skip a move (to extinguish yourself) or\
+  \ throw a light grenade\n▫️ Trust your instincts and approach (he may reload on\
+  \ the second turn, or throw a fireball again).\n▫️ And once again approach (until\
+  \ you get: \U0001F32A|Dragon 1|\U0001F426‍\U0001F525 wings create a wave of air,\
+  \ pushing away all opponents!)\nAfter that you can attack, BUT, watch the kd of\
+  \ wing flapping, so that in that turn - to approach!\n\n⚠️ Flapping has a 5 move\
+  \ cd!\nFor example, these are the moves:\n2-7-12!\n3-8-13!\n\nTeaming up against\
+  \ dragons will be a little easier\n\nThe first player in the first turn is extinguished,\
+  \ and the second player acts as a tank - fit, the tank to cover the shields optional\n\
+  As long as at least one player in close combat with dragons - dragons can not use\
+  \ fireballs, even on those players who did not approach."
+dungeon.dragon.boss.glossary: '🕳 Third floor:
+
+  Opponents: Knight (number of knights = number of players going through the dungeon.
+  The second and subsequent knight has the name ‘knight squire’ but, it''s still the
+  same knight).
+
+
+  {knight_characteristics}
+
+
+  {boss_weapons}
+
+
+  ✅ Recommended abilities: shield generator, medic
+
+  ✅ Recommended weapons: knife, steel claws, bat, water cannon, sawblade, brass knuckles,
+  police baton.
+
+
+  Due to such a strong randomness of the boss, there won''t be any specific tips.'
+dungeon.dragon.boss.knight_characteristics.glossary: "Knight|⚔️\n♥️♥️♥️♥️♥️♥️|6 lives.\
+  \ Maximum: 6\n⚡️⚡️⚡️⚡️⚡️|5 energy. Max: 5\n▪️ Has a 60% chance to block 1 unit of\
+  \ damage per turn.\n▪️ Has 3 random items (except jets (npcs can't jets)).\n▪️ Has\
+  \ 3 random abilities\n\nKnight gets 1 unique ability with 100% chance. And 2 more\
+  \ abilities he takes from both lists, randomly.\nSo a knight can have:\n 1 unique\
+  \ + 2 normal abilities;\n 2 unique + 1 normal ability;\n 3 unique abilities.\n\n\
+  \  \U0001F539Common abilities:\nTwo-Life, Strong Skull, Gas mask, Sight, Zombie,\
+  \ Sadist, Medic, Biceps, Shield Generator.\n  \U0001F539Unique Abilities\nDOOM,\
+  \ Hypnotist, Magic of explosions, Hell Tentacles, Darkness Energy, Bloodseeker,\
+  \ Miner, Jerk.\n\n▪️ Random Weapons:\n\U0001F539Modified Sniper Rifle\n\U0001F539\
+  Necromancer's Staff\n\U0001F539Electroshocker\n\U0001F539Asgard Bow\n\U0001F539\
+  Narsil Spear\n\U0001F539Katana"
+dungeon.dragon.boss.weapons.glossary: '⚔️|Sniper Rifle:
+
+  Wasting a move, aiming at the enemy and increasing accuracy.
+
+  💢 Damage: 18-18
+
+  🎯 Accuracy: 4
+
+  ⚡️ Energy expenditure: 5
+
+  🎯 Long range.
+
+
+  ⚔️|The Necromancer''s Staff:
+
+  Summons a random npcs for 3 turns; during this time, the knight gains a shield and
+  cannot walk for himself - instead, he walks for the npcs.
+
+  ⚠️ If the knight is stunned while summoned, the summoned creature is also stunned.
+
+  💢 Damage: 1-3
+
+  🎯 Accuracy: 1
+
+  ⚡️ Energy expenditure: 3
+
+  🎯 Long range.
+
+
+  ⚔️|Electroshocker:
+
+  When hit, takes away maximum energy by 1. Stacks. Resets on respawn.
+
+  Damage depends on the player''s energy, NOT the target being shot at!
+
+  💢 Damage: Depends on energy
+
+  🎯 Accuracy: 1
+
+  ⚡️ Energy expenditure: 3
+
+  🎯 Long range.
+
+
+  ⚔️|Bow Asgard:
+
+  Has 30% to cause bleeding.
+
+  Spending a turn can draw the bow, drawing the bow grants:
+
+  An additional +2 damage for each draw, +10% to bleed, +1 to energy expenditure.
+
+  Starting with the second pull, there is a stun chance. 60% on the second pull and
+  +60% on each subsequent pull.
+
+  Stun/any action other than the pull knocks the pull and all its bonuses!
+
+  💢 Damage: 1-3
+
+  🎯 Accuracy: 2
+
+  ⚡️ Energy expenditure: 1
+
+  🎯 Long range.
+
+
+  ⚔️|Narsil Spear:
+
+  You can throw the spear, dealing +1 damage and stun with a chance of [amount of
+  energy*20]
+
+  Once thrown, the spear must be picked up
+
+  The throw takes 1 energy and has a cooldown of 6 turns.
+
+  💢 Damage: 1-3
+
+  🎯 Accuracy: 2
+
+  ⚡️ Energy expenditure: 2
+
+  👊Melee
+
+
+  ⚔️|Katana:
+
+  Has a 99% bleed rate.
+
+  Attacking a target with 1hp instantly kills it. Attack passes through shield. But
+  can miss.
+
+  💢 Damage: 1-3
+
+  🎯 Accuracy: 2
+
+  ⚡️ Energy expenditure: 2
+
+  👊Melee'
+dungeon.dragon.teams.glossary: "Mini Rhino|\U0001F98F\n♥️♥️♥️♥️|4 lives. Max: 4\n\U0001F53B\
+  Mini Rhino gains +1 HP for every second player, starting with the first.\n\U0001F53B\
+  That is, +1 HP for every odd-numbered player on the list.\n⚡️⚡️⚡️|3 energy. Max:\
+  \ 3\n\U0001F53BMini Rhino gets +1 energy for every fourth player starting with the\
+  \ first.\n\U0001F494x5/5 wounds. Affects the loss of lives\n▪️ Has a 50% chance\
+  \ to block 1 unit of damage per turn.\n\U0001F53B Gains +1 armour for every 2 players.\n\
+  ▪️ Has the property of a gas mask - namely, it extinguishes if not set on fire.\
+  \ (but, light grenades work on it).\n▪️ Fury comes when the rhino has 50% xp rounded\
+  \ down (i.e. when it has 1/4 life, 2/5, etc.).\n▪️ It has burst. His jerk has a\
+  \ cd of 3 turns. (i.e. if used on turn 1, the next turn 5).\n▪️ When jerked, it\
+  \ has a 70% chance to stun.\n▪️ If you are stunned (after being hit by the jerk\
+  \ or for other reasons) he can attack you, dealing +2 damage.\n▪️ For each attack\
+  \ - he spends 1 energy.\n\n\U0001F4A2 Fury:\n▪️ Instantly restores n energy.\n▪️\
+  \ Max energy +n.  \n▪️ Damage +n.\n\U0001F53BN for each player.\n\nFrom weapons:\
+  \ horn\n⚔️|Horn\n\U0001F4A2 Damage: 1-3\n\U0001F53B Mini Rhino takes +1 damage for\
+  \ every third player, starting with the first.\n\U0001F3AF Accuracy: 4\n⚡️ Energy\
+  \ expenditure: 1\n\U0001F44AMelee"
+dungeon.dragon.Tuman.glossary: 'Also, you can check out the Knight dungeon guide from
+  another player (Тумана):
+
+  https://t.me/BlacK_Apr1L/49'

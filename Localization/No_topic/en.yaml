@@ -1,0 +1,95 @@
+menu.glossary: 'Welcome to the guide v2, {first_name}! Here you will find a lot of
+  useful things about the Veganwars!
+
+  If you have any questions/suggestions for improving the guide - poke the creator
+  (in the bot description) or use /feedback
+
+  The guide has the ability to change the language, for this enter the command - /set_l'
+how_to_play.glossary: "♥️♥️♥️♥️|4 lives. Maximum: 4\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum:\
+  \ 5\n\U0001F3AF \U0001F3AF \U0001F3AF\U0001F3AF\U0001F3AF\U0001F3AF\U0001F3AF 97%\
+  \ chance of hitting.\n\nYour standard stats - let's go over them.\n♥️♥️♥️♥️|4 lives.\
+  \ Maximum: 4 is your xp, if you have 0 lives, you lose. Your goal is to reduce your\
+  \ opponent's lives before they reduce yours.\n\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5\
+  \ is your energy that is spent on attacking - on average, melee uses 2 energy per\
+  \ turn, ranged 3. There are weapons exceptions to the rules.\n\n\U0001F3AF|Probability\
+  \ to hit - 97% - the probability of hitting the enemy depends on the amount of current\
+  \ energy and accuracy of the weapon and additional abilities!\n\nThere is also a\
+  \ parameter invisible to the player - Damage Limit\nDamage limit, aka damage threshold.\
+  \ If you deal damage that exceeds the player's damage limit, the player will lose\
+  \ 2 xp per turn!\n\nSo now let's get to the mechanics of battles, in front of you\
+  \ will be a few buttons -\nAttack. Reload/Rest. Roll. Info. Advanced. Approach.\
+  \ Skip move.\n\nAttack - as the name implies, you need to attack the opponent, expends\
+  \ energy. If there is no energy - the chance to hit is 0%, you can't damage the\
+  \ enemy. If at the very beginning of the battle when you press the attack button,\
+  \ you have no opponent - you need to approach and press the button of the same name.\
+  \ \n\nRecharge/Rest - click if you are out of or low on energy, restores energy\
+  \ completely.\n|0 energy. Maximum: 5\n\U0001F3AF| 0% chance of hitting.\n\nChosen:\
+  \ recharge.\n\n⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5\n\U0001F3AF|Hit probability - 97%]\n\
+  \nRoll - As the name suggests, this button is needed to dodge enemy attacks - does\
+  \ not guarantee 100% dodge (as it lowers enemy accuracy by 5).\n\nInfo - Needed\
+  \ to get rid of fear effect, otherwise useless.\n\nExtras - There will be \U0001F4A3\
+  \ Items and some abilities that require activation.\n\nApproach - needed if you\
+  \ have a melee weapon (including fists), not needed if you have a ranged weapon.\n\
+  \nSkip move - needed to skip a move, as well as this button is needed to extinguish\
+  \ from fire."
+other_questions.glossary: This section will be painted and implemented in the future!
+  (Alex is lazy at the moment)
+help: "/set_l - command to change the localisation language of the guide \n(works\
+  \ only in chat with bot)\n\n/admin_locale - command to change the localisation language\
+  \ of the guide\n(works only in chat rooms. Only chat admins can use this command)\n\
+  \n/key_mode - command to change keyboard type; from new to old view\n(works only\
+  \ in chat with bot)\n\n/switch_mode - command to change keyboard type; from editing\
+  \ messages to \"disappearing\" (delete+send) \n\n/cooldown - command to call keyboard\
+  \ to track ability cd\n\n/feedback - command to send feedback and error messages.\
+  \ Supports sending media.\nWorks in the format:\n/feedback [text]\n/feedback, and\
+  \ next message [text]\n/feedback, and next message [media] (can be signed)\n⚠️ /feedback\
+  \ [media] in one message - does not work!"
+only_admin: Only the administrator can change the language of the group.
+only_in_groups: This command is only available in groups.
+private_only_language_change: 'Language change can only be done in private messages
+  with the bot.
+
+  If you need to change the language in a group, use - /admin_locale (only for group
+  admins)'
+current_group_language: 'Current group language: {lang}
+
+  Select a new language:'
+group_language_set: 'The group language is set: {lang}'
+current_group_language_set: 'Current language of the group: {lang}'
+current_user_language: 'Current language: {lang}
+
+  Select a new language:'
+language_set: 'Language is set: {lang}'
+current_language_set: 'Current language: {lang}'
+permanent_message: Current mode
+disappearing_message: Current mode
+mode_edit: ✏️ Now the bot will *edit* messages.
+mode_forward: 🗑 Now the bot will *delete and forward* new messages.
+private_only_command: This command works only in private messages!
+keyboard_mode_reply: 'Keyboard mode: normal keys.'
+keyboard_mode_inline: 'Keyboard mode: inline.'
+Melee_weapon_performance: '💢Damage: {damage}
+
+  🎯Accuracy: {accuracy}
+
+  ⚡️Energy cost: {energy}
+
+  👊Melee'
+Range_weapon_performance: '💢Damage: {damage}
+
+  🎯Accuracy: {accuracy}
+
+  ⚡️Energy cost: {energy}
+
+  🎯Longer Range'
+Range_weapon_with_additional_information_performance: '💢Damage: {damage} {additional_info}
+
+  🎯Accuracy: {accuracy}
+
+  ⚡️Energy cost: {energy}
+
+  🎯Longer Range'
+burning_power: '🔥Burning power: 1'
+two_targets: (up to two targets)
+one_projectile: (for 1 shuriken)
+depending_on_energy_damage: depends on energy

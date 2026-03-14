@@ -1,0 +1,113 @@
+unique_weapons.glossary: '🕳 - Dungeon weapons (Which the player gets when going through
+  a dungeon)
+
+  🏆 - Unique weapons (Which the player gets for winning a special tournament or other
+  circumstances),
+
+  🤖 - Deleted weapons, which can now be found only from npcs.'
+staff_of_the_necromancer.glossary: '⚔️|The Necromancer''s Staff:
+
+  Summons a random npcs for 3 turns; during this time, the player gains a shield and
+  cannot walk for him/herself - instead, he/she walks for the npcs.
+
+  ⚠️ If the player is stunned during the summoning, the summoned creature is also
+  stunned.
+
+  {staff_of_the_necromancer_info}
+
+
+  Called creatures:
+
+  Ghoul|👹
+
+  ♥️♥️♥️♥️♥️♥️|6 lives. Maximum: 6
+
+  ⚡️⚡️⚡️⚡️⚡️⚡️|6 energy. Maximum: 6
+
+  💔x4/4 wounds. Affects loss of lives
+
+  (You can lower the damage threshold to 3/4 with the axe.)
+
+  ▪️ Vampirism: for every life taken, the ghoul regains a life.
+
+  ▪️ Ghoul''s Bloodthirstiness: for each life taken from a player, increases damage
+  by +1.
+
+  ▪️ Has the property of a gas mask - namely, it extinguishes if not set on fire.
+  (but, light grenades work on him).
+
+  Weapon:
+
+  ⚔️|Ghoul''s teeth.
+
+  {ghoul_teeth_info}
+
+
+  Skeleton|💀
+
+  ♥️♥️♥️♥️|4 lives. Maximum: 4
+
+  ⚡️⚡️⚡️⚡️⚡️|5 energy. Maximum: 5
+
+  ▪️ Can attack immediately without approaching the target
+
+  Weapon:
+
+  ⚔️|Sword.
+
+  {skeleton_sword_info}
+
+
+  Zombie rat|🐭
+
+  ♥️♥️♥️♥️|4 lives. Maximum: 4
+
+  ⚡️⚡️⚡️⚡️⚡️|5 energy. Max: 5
+
+  ▪️ Has random weapons, abilities, items'
+Narsil_spear.glossary: '⚔️|The Narsil Spear:
+
+  Unique weapon - Зилча.
+
+  You can throw the spear, dealing +1 damage and stun with a chance of [amount of
+  energy*20]
+
+  Once thrown, the spear must be picked up
+
+  The throw takes 1 energy and has a cooldown of 6 turns.'
+katana.glossary: '⚔️|Katana:
+
+  Unique weapon - Юли.
+
+  It has 99% bleeding.
+
+  Attacking a target with 1hp instantly kills it. Attack passes through shield. But
+  can miss.'
+bow_Asgard.glossary: '⚔️|The Asgaard Bow:
+
+  Unique weapon of Asgaard
+
+  Has 30% to cause bleeding.
+
+  Spending a turn to draw the bow, drawing the bow grants:
+
+  An additional +2 damage for each draw, +10% to bleed, +1 to energy expenditure.
+
+  Starting with the second draw, there is a stun chance. 60% on the second pull and
+  +60% on each subsequent pull.
+
+  Stun/any action other than the pull will knock out the pull and all its bonuses!'
+electric_shocker.glossary: '⚔️|Electric shocker:
+
+  When hit, takes away maximum energy by 1. Stacks. Resets if you take a break.
+
+  Damage depends on the player''s energy, NOT the target being shot at!'
+vampire_fangs.glossary: '⚔️|Vampire Fangs:
+
+  When attacking, have 50% to suck 1 xp out of your opponent (opponent loses 1 xp
+  and you gain 1 xp). This mechanic pierces the shield, and can restore the vampire''s
+  xp above the maximum xp value.'
+skeleton_king_sword.glossary: ⚔️|The sword of the skeleton king.
+demon_lord_eyes.glossary: '⚔️|Demon''s Eye:
+
+  For each player''s xp missing, the damage is increased by +1.'

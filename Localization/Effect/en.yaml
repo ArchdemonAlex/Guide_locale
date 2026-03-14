@@ -1,0 +1,289 @@
+effect.page.one.glossary: Here you can learn about certain effects in the game
+stun.glossary: '🌀 Stun - applies each of the following effects separately: Bit, Column,
+  Chitin, Inquisitor, and Rhino Rush. The player with this effect will skip the next
+  turn, but only once. You can inflict several Stuns in one turn, then the character
+  will miss more than one turn.
+
+
+  Example:
+
+  Chitin, applied separately.
+
+  🌀|Rat 3|🐭 loses the effect of chitin. The player is stunned separately.
+
+
+  Bat
+
+  👊|Alex hits Rat 1|🐭 with a bat! 2 damage is applied separately.
+
+
+  🌀|Rat 1| is🐭 stunned, but only for a short period of time.
+
+  The Inquisitor
+
+  Turn 1:
+
+  🙏|Alex prays. Clouds🐭 are gathering separately over Rat 1|!
+
+
+  Effects 1: Each effect is applied separately.
+
+  ☁️| Above Rat 1 | clouds🐭 are gathering separately. (2)
+
+
+  Effects 2: (each effect applied separately)
+
+  ☁️| Above Rat 1 | clouds🐭 are gathering separately. (1)
+
+  Effects 3: Each effect is applied separately.
+
+  🌩The wrath of the heavens descends upon Rat 1, manifesting🐭 as a bolt of lightning.
+
+
+  🌀|Rat 1| is🐭 stunned, but only temporarily.'
+fear.glossary: '👁⚫️⚫️👁 Fear - imposes the energy of darkness, Shadow of the Rat, Amalgam,
+  Darkness. Fear "breaks" the buttons, replacing them with "escape" if the fear counter
+  is 2 or more. If the player accidentally presses it, he dies without the possibility
+  of being saved by a zombie or the Inquisitor. The same applies if the fear counter
+  reaches 5.
+
+
+
+  To get rid of fear, click ''info''.'
+burning.glossary: '🔥 Burning - imposes a torch/bow/flamethrower/Molotov cocktail/grenade
+  launcher.
+
+  Each unit of burning deals 1 damage. When the player has two or more units of burning,
+  he/she loses 1 energy for each subsequent unit (the formula for energy loss: X-1,
+  where X is the unit, the strength of burning).
+
+
+  By default, the player burns for 2 turns, and extinguishes himself on the third
+  fire (the gas mask burns for 1 turn).
+
+  If you set the target on fire again on the third turn (if it has not been extinguished),
+  the burn counter will be updated and the burning itself will intensify.
+
+
+  You can extinguish yourself by pressing the skip turn/extinguish button.
+
+  Also, you can extinguish yourself in the turn when the burning status is only imposed
+  - if you click the skip turn button.
+
+
+  Examples:
+
+
+  Example of extinguishing right away
+
+  ☄️|Rat 1|🐭 sets fire to the arrow and shoots it at Alex!🔥 |Alex is on fire!
+
+  💨| Alex extinguishes himself. (I clicked on the skip turn button)
+
+  🔥| The fire on Alex is extinguished!
+
+
+  Example of the fire duration
+
+  Move: 1
+
+  ☄️| Alex fires the arrow and shoots it at Rat 1 |🐭!🔥|Rat 1|🐭 caught fire!
+
+  🔥|Rat 1|🐭 is burning! It loses 1 energy and receives 2 damage.
+
+
+  Move: 2
+
+  🔥|Rat 1|🐭 is burning! Loses 1 energy and receives 2 damage.
+
+
+  Move: 3
+
+  🔥|Fire at Rat 1| is🐭 extinguished!'
+bleeding.glossary: '❣️ Bleed - imposes knife/throwing knife. By default, imposes a
+  counter for 3 turns (Dual-Life - this counter increases). After 3 turns, life is
+  removed (you cannot block life removal with a shield or roll). If you cause a player
+  with bleeding to bleed - it will increase, namely the counter minus 1.
+
+
+  Example:
+
+
+  Move 2:
+
+  🔪|Alex throws a throwing knife at Rat 1|🐭. ❣️|Rat 1|🐭 is bleeding to death!
+
+  ❣️|Rat 1|🐭 is bleeding to death! (3)
+
+
+  After 3 turns.
+
+
+  Effects 5:
+
+  ❣️|Bleeding takes Rat 1|🐭''s life!
+
+  ♥️|Rat 1|🐭 loses 1 life(s). 1 hp remains.'
+knocking_out_weapons.glossary: '⛓ Knocking out a weapon - imposes a chain, caster.
+  The player loses their weapon and will have to either pick it up or can attack with
+  their fists.
+
+
+  Example:
+
+
+  ⛓|Alex tries to knock the weapon out of Rat''s hands|🐭
+
+  👐|Rat|🐭 loses his weapon!
+
+
+  ✋|🐭 Rat|🐭 picks up his lost weapon.'
+freezing.glossary: "❄️ Freezing - Inflicts a Frost Beam. \nYou cannot press the frozen\
+  \ button - attack, roll, reload, or perform any additional action."
+disequilibrium.glossary: '🚷 Loss of balance - imposes a staff/column. A character
+  who has been knocked down cannot attack or roll until they get up. But he can still
+  use protective items and abilities.
+
+
+  Example:
+
+
+  Turn 1:
+
+  🚷| Alex tries to knock down Rat🐭 1 |!
+
+  Effects 1:
+
+  🚷|Rat 1|🐭 loses balance and falls!
+
+
+  Move 2:
+
+  ⬆️|Rat 1|🐭 rises from the ground.'
+crippled.glossary: '🤕 Crippled - imposes an ax. Crippled reduces the player''s damage
+  threshold, which makes it easier to take down 2+ lives in one attack. By default,
+  the damage threshold is 6 (a strong skull increases it).
+
+
+  Example:
+
+
+  👊| Alex hits Rat 1 |🐭 with an ax! 2 damage dealt!
+
+
+  🤕| Rat 1 | is🐭 crippled! (1)
+
+
+  The rat now has a damage threshold of 6-1 = 5, if I deal 5 or more damage to it,
+  it will lose two lives.
+
+
+  👊| Alex hits Rat 1 |🐭 with an axe! 5 damage is inflicted.
+
+
+  ♥️♥️| Rat 1 |🐭 loses 2 life(s). 2 HP left.'
+wound.glossary: '🩸 Wound - inflicts saw launcher damage. For each unit of the counter,
+  the wounded target from the saw launcher receives 1 more damage (including damage
+  from allies). Does not affect items.
+
+
+  Example:
+
+
+  💥Alex shoots at Rat 1🐭 with a saw launcher! 2 damage dealt.
+
+
+  🩸|Rat 1| is🐭 wounded by a saw launcher! (1)
+
+
+  💥Alex fires a saw launcher at Rat🐭 1! 5 damage dealt.
+
+
+  🩸|Rat 1| is🐭 wounded by a saw launcher! (4)'
+water_shield.glossary: 🔋 Water Shield - activates a water jet, a spellcaster. Restores
+  2 energy points each turn and increases the weapon's damage by 1 for 3 turns. Extinguishes
+  fire.
+weakness.glossary: '☀️ Weakness - imposes Ray of Light (caster), Sword of Light (caster).
+
+  The player with this effect recovers less energy from all sources, depending on
+  the strength of the weakness.
+
+
+  Example:
+
+  Move 1:
+
+  ☀️|Alex summons a bright beam of light that hits Rat 1|🐭! The target takes 2 damage
+  and weakness (2) for 3 turns.
+
+
+  Now, the rat recovers -2 less energy from all sources for three turns!
+
+
+  ♥️|Rat 1|🐭 loses 1 life(s). 1 hp remains.
+
+  😡|Berserk Rat 1|🐭 gains 0 energy.
+
+
+  😃|Sadist Rat 1|🐭 gains 0 energy.
+
+
+  🕓|Rat 1|🐭 recharges. Energy restored to maximum! (3/5)
+
+
+  💧|Rat 1|🐭 creates a water shield around Rat 1|🐭.
+
+  🔋| Rat 1|🐭 gains 0 energy.'
+armor_reduction.glossary: "⛓️‍\U0001F4A5|Armor reduction - imposes a scimitar.\nIt\
+  \ lasts for 3 turns and can be stacked, but each stack has its own timer.\nWhile\
+  \ the effect is in effect, the enemy's armour effectiveness is reduced by 1.\n\n\
+  In other words, if the target has armour, 1 is subtracted from its final value.\n\
+  \nThe effect works against chitin, tough skull, boss armour, and the caster's ice\
+  \ heart spell.\n\nExample:\nMove 1\n\U0001F489|Mannequin 1|\U0001F383 uses chitin\
+  \ on Mannequin 1|\U0001F383!\n\U0001F44A|Alex hits Mannequin 1|\U0001F383 with a\
+  \ scimitar! 3 damage done.\n\U0001F6E1| Mannequin 1|\U0001F383's armour takes 2\
+  \ damage!\n⛓️‍\U0001F4A5|The effectiveness of Dummy 1|\U0001F383 armour has been\
+  \ reduced! (\U0001F5512). \n\nDummy now has 2-1=1 armour\n\nMove 2.\n\U0001F44A\
+  |Alex hits Dummy 1|\U0001F383 with a scimitar! 3 damage dealt.\n\U0001F6E1|Mannequin\
+  \ 1|\U0001F383's armour takes 1 damage!\n⛓️‍\U0001F4A5|The effectiveness of Dummy\
+  \ 1|\U0001F383 armour has been reduced! (\U0001F5512). \n\nDummy now has 1-1=0 armour,\
+  \ even though it is wearing chitin!\n\nMove 3\n\U0001F44A|Alex hits Dummy 1|\U0001F383\
+  \ with a scimitar! 3 damage dealt.\n\U0001F300|Mannequin 1|\U0001F383 loses the\
+  \ chitin effect. The player is stunned!\n\nTranslated with DeepL.com (free version)"
+deluxe.effect.page.one.glossary: This is where you can learn about the particular
+  effects of Deluxe
+emptiness.glossary: 🎆 Emptiness - imposes the blade of the abyss. When the counter
+  reaches (3), it reduces the maximum target energy by 1.
+mutilation.glossary: 🦴 Mutilation - imposes a dagger. When the counter reaches (3),
+  it reduces the maximum target accuracy by 1.
+deluxe.weakness.glossary: 🫠 Weakness - imposes a cursed sword. Increases the enemy's
+  energy drain by 1, p.s. the description will be slightly adjusted in the future
+effect_regeneration.glossary: 💗 Regeneration - imposes a 3-turn counter on the player
+  - after 3 turns, the player restores 1 life (❤️).
+dehydration.glossary: 🍷 Dehydration - Inflicts a vampiric whip. When the counter reaches
+  (3), the player who cast the effect restores his life.
+corrosive_mucus.glossary: 🩲 Corrosive slime - throws slime from the bottle. Destroys
+  a random item from the enemy's inventory in two turns.
+hunger.glossary: '😋 Hunger - imposes the emitter
+
+  >At 1-3
+
+  Reduces accuracy by 1
+
+  >At 4-5
+
+  Reduces accuracy by 1
+
+  Maximum damage dealt by 1
+
+  > At 6 or more:
+
+  Reduces accuracy by 2
+
+  Maximum and minimum damage is reduced by 1
+
+  Reduces max energy by 1
+
+
+  To get rid of the hunger effect, you need to skip the move, also reduces hunger
+  by 3 pts. using: Adrenaline, Jet, Chitin, Rage Serum, Stimulator.'

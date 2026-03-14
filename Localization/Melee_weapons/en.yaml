@@ -1,0 +1,93 @@
+axe.glossary: '⚔️|Axe:
+
+  Has a 70% chance to cripple the opponent, reducing their damage limit for HP loss
+  by 1.'
+cleaver.glossary: '⚔️|Cleaver:
+
+  Initially has a damage bonus of 3. For each hit on the enemy, the bonus is reduced
+  by 1, until it becomes equal to 0.'
+club.glossary: '⚔️|Mace:
+
+  For each attack in a row, gains +1 damage.'
+hammer.glossary: '⚔️|The Hammer:
+
+  You can strike a target accurately for maximum damage and no chance to miss by spending
+  4 energy. For every two units of energy you are missing, you gain +1 to damage.
+
+  {Melee_weapon_performance}
+
+
+  Note:
+
+  The 1st hammer mechanic is in precision strike, which spends 4 energy does not miss
+  (does not affect ninja) and does maximum damage - if base damage is 1-3, precision
+  does 3-3. If there are damage modifiers, the same berserk that gives +2 damage,
+  then if the normal attack is 1-3+2, accurate deals 5-5.
+
+
+  The 2nd hammer mechanic is for every two missing energies (rounding up) you get
+  +1 to damage.
+
+  On 3 energy, your damage will be 1-3+1, on 1 energy you will have 1-3+2 damage.'
+steel_claws.glossary: '⚔️| Steel Claws:
+
+  You can unleash steel claws to increase minimum damage by 1 and maximum damage by
+  2, but increases energy expenditure by 1.'
+maul.glossary: '⚔️|Maul:
+
+  You can crush a target, dealing (2 + target energy expended) damage and expending
+  4 energy.'
+torch.glossary: '⚔️|Torch:
+
+  Has a 50% chance to set an opponent on fire when attacking.'
+knife.glossary: '⚔️|Knife:
+
+  Has a 75% chance to inflict bleeding on the target.'
+stave.glossary: '⚔️|Stave:
+
+  You can knock down a target. This attack can be used without getting close to the
+  target.'
+bat.glossary: '⚔️|Bat:
+
+  Has a 30% chance to stun an opponent when attacking.'
+saber.glossary: '⚔️|Saber:
+
+  You can parry an opponent''s attack if they attack you, blocking all of their damage
+  and taking all of their energy.'
+chain.glossary: '⚔️|Chain:
+
+  You may attempt to knock the weapon out of the target''s hands. Chance to knock
+  the weapon out: 10+(spent_energy_target*10). When the target is reloaded, the chance
+  is 100%.'
+brass_knuckles.glossary: '⚔️|Brass knuckles:
+
+  If you attacked an opponent who is recharging, they lose 4 energy.'
+spear.glossary: '⚔️|Spear:
+
+  You can counterattack all opponents who attacked you during the turn this ability
+  is applied, expending a total of 1 energy and gaining +1 to damage.'
+baton.glossary: '⚔️|Police baton:
+
+  Each attack takes 1 energy from the opponent.'
+fists.glossary: '⚔️|Fists:
+
+  Issued if you afk and don''t select a weapon.'
+one_punch.glossary: '⚔️|One punch:
+
+  A rat and a skeleton come to the enemy''s side
+
+  ⚠️ Rat and Skeleton will still come, even if you took one punch first and then chose
+  a caster!
+
+  The rat and skeleton become allies, first player/mob on the list.'
+light_sword.glossary: '⚔️|Sword of Light:
+
+  Has a 51% chance to deal 3 damage to the target and inflict a weakness with a power
+  of 2 for 3 turns.'
+scimitar.glossary: '⚔️|Scimitar:
+
+  Has a 50% chance to apply the effect⛓️‍💥|Armor reduction. Another application -
+  starts a new, separate timer.
+
+  (Reduces the effectiveness of armor by 1, for the next 3 turns. Starts to work from
+  the next turn.)'

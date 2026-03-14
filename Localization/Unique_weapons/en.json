@@ -1,0 +1,16 @@
+{
+  "unique_weapons.glossary": "\uD83D\uDD73 - Dungeon weapons (Which the player gets when going through a dungeon)\n\uD83C\uDFC6 - Unique weapons (Which the player gets for winning a special tournament or other circumstances),\n\uD83E\uDD16 - Deleted weapons, which can now be found only from npcs.",
+
+  "staff_of_the_necromancer.glossary": "⚔\uFE0F|The Necromancer's Staff:\nSummons a random npcs for 3 turns; during this time, the player gains a shield and cannot walk for him/herself - instead, he/she walks for the npcs.\n⚠\uFE0F If the player is stunned during the summoning, the summoned creature is also stunned.\n{staff_of_the_necromancer_info}\n\nCalled creatures:\nGhoul|\uD83D\uDC79\n♥\uFE0F♥\uFE0F♥\uFE0F♥\uFE0F♥\uFE0F♥\uFE0F|6 lives. Maximum: 6\n⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F|6 energy. Maximum: 6\n\uD83D\uDC94x4/4 wounds. Affects loss of lives\n(You can lower the damage threshold to 3/4 with the axe.)\n▪\uFE0F Vampirism: for every life taken, the ghoul regains a life.\n▪\uFE0F Ghoul's Bloodthirstiness: for each life taken from a player, increases damage by +1.\n▪\uFE0F Has the property of a gas mask - namely, it extinguishes if not set on fire. (but, light grenades work on him).\nWeapon:\n⚔\uFE0F|Ghoul's teeth.\n{ghoul_teeth_info}\n\nSkeleton|\uD83D\uDC80\n♥\uFE0F♥\uFE0F♥\uFE0F♥\uFE0F|4 lives. Maximum: 4\n⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F|5 energy. Maximum: 5\n▪\uFE0F Can attack immediately without approaching the target\nWeapon:\n⚔\uFE0F|Sword.\n{skeleton_sword_info}\n\nZombie rat|\uD83D\uDC2D\n♥\uFE0F♥\uFE0F♥\uFE0F♥\uFE0F|4 lives. Maximum: 4\n⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F⚡\uFE0F|5 energy. Max: 5\n▪\uFE0F Has random weapons, abilities, items",
+
+  "Narsil_spear.glossary": "⚔\uFE0F|The Narsil Spear:\nUnique weapon - Зилча.\nYou can throw the spear, dealing +1 damage and stun with a chance of [amount of energy*20]\nOnce thrown, the spear must be picked up\nThe throw takes 1 energy and has a cooldown of 6 turns.",
+  "katana.glossary": "⚔\uFE0F|Katana:\nUnique weapon - Юли.\nIt has 99% bleeding.\nAttacking a target with 1hp instantly kills it. Attack passes through shield. But can miss.",
+
+  "bow_Asgard.glossary": "⚔\uFE0F|The Asgaard Bow:\nUnique weapon of Asgaard\nHas 30% to cause bleeding.\nSpending a turn to draw the bow, drawing the bow grants:\nAn additional +2 damage for each draw, +10% to bleed, +1 to energy expenditure.\nStarting with the second draw, there is a stun chance. 60% on the second pull and +60% on each subsequent pull.\nStun/any action other than the pull will knock out the pull and all its bonuses!",
+  "electric_shocker.glossary": "⚔\uFE0F|Electric shocker:\nWhen hit, takes away maximum energy by 1. Stacks. Resets if you take a break.\nDamage depends on the player's energy, NOT the target being shot at!",
+
+  "vampire_fangs.glossary": "⚔\uFE0F|Vampire Fangs:\nWhen attacking, have 50% to suck 1 xp out of your opponent (opponent loses 1 xp and you gain 1 xp). This mechanic pierces the shield, and can restore the vampire's xp above the maximum xp value.",
+  "skeleton_king_sword.glossary": "⚔\uFE0F|The sword of the skeleton king.",
+  "demon_lord_eyes.glossary": "⚔\uFE0F|Demon's Eye:\nFor each player's xp missing, the damage is increased by +1."
+
+}
